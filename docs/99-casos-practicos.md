@@ -25,6 +25,11 @@ layout: default
 - Brazos: 2
 - Torso: 2
 
+Estadísticas derivadas:
+
+- Vida: 8 + (4 × 2) + 2 = 18
+- Defensa: 10 + 4 = 14
+
 Ataque base:
 
 > 1d20 + Cuerpo + Combate
@@ -46,6 +51,11 @@ Esto refleja una criatura que aprende a golpear fuerte, pero no tiene una base t
 - Cabeza: 3
 - Piernas: 2
 
+Estadísticas derivadas, sin equipo ni características defensivas:
+
+- Vida: 8 + (2 × 2) + 0 = 12
+- Defensa: 10 + 2 = 12
+
 Acciones relevantes:
 
 - Investigación
@@ -64,6 +74,11 @@ La Cabeza aumenta la capacidad de control mental, análisis y precisión, mientr
 - Espíritu: 2
 - Presencia: 4
 - Competencias sociales: Persuasión, Liderazgo, Intimidación
+
+Estadísticas derivadas, sin equipo ni desarrollo de Torso:
+
+- Vida: 8 + (2 × 2) + 0 = 12
+- Defensa: 10 + 2 = 12
 
 Este personaje no necesita ser el más fuerte, sino quien convence, coordina y fija la iniciativa del grupo.
 

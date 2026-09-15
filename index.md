@@ -105,6 +105,27 @@ Cada punto de desarrollo se asigna a un atributo:
 - Espíritu +1 = mejora espiritual y sobrenatural
 - Presencia +1 = +1 punto de competencia social
 
+### Estadísticas derivadas
+
+Las estadísticas principales no son cuatro copias de los atributos:
+
+| Elemento | Cálculo o criterio |
+| --- | --- |
+| Vida | 8 + (Cuerpo × 2) + bonificación de Torso |
+| Defensa | 10 + Cuerpo + características y equipo |
+| Salvación | 1d20 + atributo apropiado + competencia |
+| Ataque | 1d20 + atributo apropiado + competencia |
+
+La bonificación de Torso se obtiene de esta escala:
+
+| Puntos de Torso | Vida adicional |
+| ---: | ---: |
+| 0-1 | +0 |
+| 2-3 | +2 |
+| 4-5 | +4 |
+| 6-7 | +6 |
+| 8 o más | +8 |
+
 > Consulta la sección completa en [Creación del personaje](./docs/01-creacion-personaje.md).
 
 ---
@@ -140,17 +161,21 @@ El resultado se compara con:
 
 ### Defensa
 
-La Defensa representa lo difícil que es alcanzar a un personaje.
+La Defensa representa lo difícil que es alcanzar a un personaje. Es un número fijo, principalmente físico.
 
-> Defensa = 10 + atributo defensivo + bonificadores + equipo
+> Defensa = 10 + Cuerpo + características + equipo
 
-Para ataques físicos, normalmente:
+No se obtiene una bonificación automática por desarrollar piernas o pies. Esas zonas desbloquean habilidades de movimiento, equilibrio y evasión.
 
-> Defensa = 10 + Cuerpo + bonificadores
+### Vida
+
+La Vida combina la capacidad física general con el desarrollo del Torso:
+
+> Vida = 8 + (Cuerpo × 2) + bonificación de Torso
 
 ### Salvaciones
 
-Una salvación representa resistir un efecto peligroso:
+Una salvación representa resistir un efecto peligroso. No existen cuatro defensas permanentes; se usa el atributo que mejor representa la amenaza:
 
 > 1d20 + atributo apropiado + competencia
 
@@ -158,11 +183,10 @@ Ejemplos habituales:
 
 | Efecto | Atributo habitual |
 | --- | --- |
-| Veneno | Cuerpo |
-| Enfermedad | Cuerpo |
-| Ilusión | Mente |
-| Maldición | Espíritu |
-| Manipulación sobrenatural | Presencia |
+| Veneno o enfermedad | Cuerpo + Resistencia |
+| Ilusión | Mente + Concentración |
+| Maldición o posesión | Espíritu + Voluntad |
+| Intimidación sobrenatural | Presencia + Voluntad |
 
 > Consulta [Reglas base](./docs/03-reglas-base.md) para la versión completa.
 
@@ -251,7 +275,10 @@ Se han separado en una página dedicada para no saturar la documentación princi
 - Los atributos principales son Cuerpo, Mente, Espíritu y Presencia.
 - El desarrollo es por nivel y por inversión de puntos.
 - Cuerpo se especializa en 10 zonas corporales con funciones temáticas.
-- La Defensa no es una estadística aislada; surge de varias fuentes.
+- La Vida depende de Cuerpo y del desarrollo del Torso.
+- La Defensa es principalmente física y no recibe bonificaciones automáticas por piernas o pies.
+- Las salvaciones usan el atributo y la competencia apropiados para cada efecto.
+- Esquiva es una reacción que proporcionan determinadas habilidades, no una segunda Defensa.
 - Las habilidades corporales siguen escalones para simplificar la resolución.
 - Las reglas principales van por un manual de referencia, mientras que ejemplos y casos quedan en páginas auxiliares.
 

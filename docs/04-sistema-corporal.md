@@ -44,6 +44,24 @@ Los puntos de cada zona indican cuánto se ha desarrollado esa parte.
 
 Los brazos, piernas, puños y pies tienen versiones derecha e izquierda para permitir especializaciones y requisitos específicos.
 
+### Función mecánica del Torso
+
+El Torso aporta Vida mediante una escala propia:
+
+| Puntos de Torso | Vida adicional |
+| ---: | ---: |
+| 0-1 | +0 |
+| 2-3 | +2 |
+| 4-5 | +4 |
+| 6-7 | +6 |
+| 8 o más | +8 |
+
+La Vida total se calcula así:
+
+> Vida = 8 + (Cuerpo × 2) + bonificación de Torso
+
+Las piernas y los pies no añaden Defensa directamente. Pueden desbloquear habilidades de movimiento, equilibrio o Esquiva.
+
 ## Potenciación corporal
 
 Para evitar cálculos distintos en cada habilidad, se usan escalones.
@@ -164,6 +182,12 @@ Potenciación: Puños → potencia.
 Base: movimiento normal.
 
 Potenciación: Piernas → movilidad.
+
+### Pies ligeros
+
+Requisito: Pie derecho 2 + Pie izquierdo 2.
+
+Efecto: obtienes la reacción Esquiva, que permite evitar un ataque concreto cuando la ficción lo permite. Esquiva no aumenta la Defensa fija.
 
 Para ver ejemplos más amplios de uso en partida, revisa [Casos prácticos](./99-casos-practicos.md).
 

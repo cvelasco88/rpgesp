@@ -9,6 +9,7 @@ layout: default
 - [Acciones principales](#acciones-principales)
 - [Tiradas básicas](#tiradas-basicas)
 - [Defensa y salvaciones](#defensa-y-salvaciones)
+- [Vida](#vida)
 - [Sistema corporal](#sistema-corporal)
 - [Puntos de desarrollo](#puntos-de-desarrollo)
 - [Regla de oro](#regla-de-oro)
@@ -26,16 +27,28 @@ El resultado se compara con la dificultad o con la Defensa del objetivo.
 ## Tiradas básicas
 
 - ataque: 1d20 + atributo apropiado + competencia
-- defensa: 10 + atributo defensivo + equipo y bonificadores
+- defensa: 10 + Cuerpo + características y equipo
 - salvación: 1d20 + atributo apropiado + competencia contra un efecto
 
 ## Defensa y salvaciones
 
 | Elemento | Regla |
 | --- | --- |
-| Defensa básica | 10 + atributo defensivo + bonificadores |
-| Efecto potencial | Define atributo, dificultad y consecuencia |
-| Salvar | Tirada contra la dificultad del efecto |
+| Defensa básica | 10 + Cuerpo + características y equipo |
+| Efecto potencial | Define atributo, competencia, dificultad y consecuencia |
+| Salvar | 1d20 + atributo + competencia contra la dificultad |
+
+## Vida
+
+> Vida = 8 + (Cuerpo × 2) + bonificación de Torso
+
+La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6-7 y +8 con 8 o más.
+
+## Defensa y Esquiva
+
+- Defensa es un número fijo.
+- Esquiva es una reacción obtenida mediante una característica o habilidad.
+- Piernas y pies no conceden Defensa automática.
 
 ## Sistema corporal
 
@@ -51,6 +64,7 @@ El resultado se compara con la dificultad o con la Defensa del objetivo.
 - Cuerpo +1 = +2 puntos corporales
 - Presencia +1 = +1 competencia social
 - Mente y Espíritu +1 mejoran la capacidad general del atributo
+- Torso mejora la Vida mediante escalones
 
 ## Regla de oro
 

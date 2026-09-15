@@ -91,6 +91,21 @@ Un método breve para empezar una partida:
 5. Asigna puntos corporales en las zonas del cuerpo según la especialización física.
 6. Establece Defensa, equipo y estilo de combate.
 
+7. Calcula la Vida según Cuerpo y el desarrollo del Torso.
+
+### Estadísticas iniciales
+
+Usa estas fórmulas después de asignar los atributos y los puntos corporales:
+
+| Elemento | Fórmula |
+| --- | --- |
+| Vida | 8 + (Cuerpo × 2) + bonificación de Torso |
+| Defensa | 10 + Cuerpo + características y equipo |
+| Ataque | 1d20 + atributo apropiado + competencia |
+| Salvación | 1d20 + atributo apropiado + competencia |
+
+La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6-7 y +8 con 8 o más.
+
 ---
 
 ## Tabla resumida de desarrollo

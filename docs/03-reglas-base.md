@@ -55,15 +55,21 @@ Ejemplos:
 
 ## Defensa
 
-La Defensa representa lo difícil que es alcanzar a un personaje.
+La Defensa representa lo difícil que es alcanzar a un personaje. Es un número fijo, principalmente físico.
 
 Regla base:
 
-> Defensa = 10 + atributo defensivo + bonificadores + equipo
+> Defensa = 10 + Cuerpo + características + equipo
 
-En la práctica, para ataques físicos suele ser:
+No se suman automáticamente las piernas o los pies. Esas zonas pueden desbloquear características como Esquiva, que permiten responder a ataques concretos.
 
-> Defensa = 10 + Cuerpo + bonificadores
+### Defensa y Esquiva
+
+Defensa responde a: “¿qué difícil es golpearme?”.
+
+Esquiva responde a: “¿puedo evitar este ataque concreto?”.
+
+Son herramientas distintas. Un personaje puede tener una Defensa moderada y aun así ser difícil de alcanzar si dispone de una reacción de Esquiva.
 
 Ejemplo:
 
@@ -75,11 +81,11 @@ Ejemplo:
 
 Una salvación representa resistir o evitar un efecto negativo.
 
-Se suele definir como:
+Se define como:
 
-- atributo usado
-- dificultad
-- consecuencia del fallo
+> 1d20 + atributo apropiado + competencia
+
+La dificultad la determina el efecto. No existen Defensa mental, espiritual o social como estadísticas permanentes.
 
 Ejemplo:
 
@@ -98,6 +104,28 @@ Si obtiene 15 o más:
 Si obtiene menos:
 
 > Sufre el efecto.
+
+Otros ejemplos:
+
+| Efecto | Tirada |
+| --- | --- |
+| Ilusión | 1d20 + Mente + Concentración |
+| Maldición | 1d20 + Espíritu + Voluntad |
+| Intimidación sobrenatural | 1d20 + Presencia + Voluntad |
+
+## Vida
+
+La Vida depende de Cuerpo y del desarrollo del Torso:
+
+> Vida = 8 + (Cuerpo × 2) + bonificación de Torso
+
+| Puntos de Torso | Vida adicional |
+| ---: | ---: |
+| 0-1 | +0 |
+| 2-3 | +2 |
+| 4-5 | +4 |
+| 6-7 | +6 |
+| 8 o más | +8 |
 
 ## Daño y peligro
 
@@ -123,8 +151,10 @@ La fatiga representa desgaste físico, mental o espiritual. Si se acumula demasi
 
 - La tirada siempre responde a una acción concreta.
 - La dificultad debe ser clara.
-- La Defensa no es un atributo oculto; surge de varias fuentes.
+- La Defensa usa Cuerpo, características y equipo.
+- La Vida usa Cuerpo y Torso.
 - Las salvaciones sirven para resistir efectos.
+- Las reacciones como Esquiva se obtienen mediante habilidades concretas.
 - Los peligros deben tener consecuencias entendibles.
 
 Para continuar, revisa el sistema corporal en [Sistema corporal](./04-sistema-corporal.md).

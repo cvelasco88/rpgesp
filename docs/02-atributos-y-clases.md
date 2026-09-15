@@ -69,11 +69,24 @@ Las dotes o características son ventajas especiales que se desbloquean por desa
 | Dote social | 1 punto de competencia social | Ventaja de mando, persuasión o presencia |
 | Dote corporal | 2 puntos de una zona concreta | Mejora de fuerza, reflejos, resistencia o movimiento |
 
+### Características defensivas
+
+Las características defensivas dan herramientas concretas sin convertir cada atributo en una Defensa distinta.
+
+| Característica | Requisito | Efecto |
+| --- | --- | --- |
+| Mente protegida | Mente 4 | +2 a salvaciones contra ilusiones y manipulación mental |
+| Voluntad férrea | Espíritu 3 | +2 a salvaciones contra miedo, posesión y corrupción |
+| Canalización | Espíritu 2 | Permite utilizar determinados poderes |
+| Pies ligeros | Pie derecho 2 y Pie izquierdo 2 | Obtienes la reacción Esquiva |
+
+**Esquiva** permite evitar un ataque concreto cuando la ficción lo permite. No aumenta automáticamente la Defensa.
+
 ## Perfil de ejemplo
 
 | Nombre | Concepto | Atributos | Especialización |
 | --- | --- | --- | --- |
-| Alaric | Guardia veterano | Cuerpo 4, Mente 2, Espíritu 2, Presencia 2 | Defensa, combate cuerpo a cuerpo |
+| Alaric | Guardia veterano | Cuerpo 4, Mente 2, Espíritu 2, Presencia 2 | Protección, combate cuerpo a cuerpo |
 | Yra | Investigadora arcana | Cuerpo 1, Mente 4, Espíritu 2, Presencia 3 | Investigación, magia y análisis |
 | Sera | Líder de la hueste | Cuerpo 2, Mente 2, Espíritu 3, Presencia 4 | Persuasión, mando y moral |
 
