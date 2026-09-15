@@ -88,3 +88,5 @@ Para mantener el sistema equilibrado, conviene fijar un marco de referencia al c
 - cada habilidad debe explicitar qué la activa y qué la potencia
 
 Para más detalle sobre reglas de tirada, consulta [Reglas base](./03-reglas-base.md).
+
+[Volver](../)

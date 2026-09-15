@@ -166,3 +166,5 @@ Base: movimiento normal.
 Potenciación: Piernas → movilidad.
 
 Para ver ejemplos más amplios de uso en partida, revisa [Casos prácticos](./99-casos-practicos.md).
+
+[Volver](../)

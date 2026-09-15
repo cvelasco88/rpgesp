@@ -103,3 +103,5 @@ Un método breve para empezar una partida:
 | Presencia +1 | +1 punto de competencia social | Ideal para diplomáticos, líderes y manipuladores |
 
 Para pasar a las reglas de resolución, consulta [Reglas base](./03-reglas-base.md).
+
+[Volver](../)

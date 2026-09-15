@@ -17,6 +17,11 @@ layout: default
 - [Atributos y especializaciones](#atributos-y-especializaciones)
 - [Reglas base](#reglas-base)
 - [Sistema corporal](#sistema-corporal)
+- [Equipo inicial](#equipo-inicial)
+- [Bestiario básico](#bestiario-basico)
+- [Magia y poderes](#magia-y-poderes)
+- [Perfiles y clases predefinidas](#perfiles-y-clases-predefinidas)
+- [Resumen de reglas](#resumen-de-reglas)
 - [Casos prácticos](#casos-practicos)
 
 ---
@@ -203,6 +208,36 @@ Esto mantiene el sistema rápido de resolver y evita habilidades con demasiados 
 
 ---
 
+## Equipo inicial
+
+La preparación del personaje no termina en los atributos: también es importante definir su equipo básico, recursos y forma de sobrevivir.
+
+- [Equipo inicial](./docs/05-equipo-inicial.md)
+
+## Bestiario básico
+
+Un bestiario breve sirve para poblar la aventura sin saturar la referencia principal.
+
+- [Bestiario básico](./docs/06-bestiario-basico.md)
+
+## Magia y poderes
+
+Las artes sobrenaturales tienen su propia lógica, costes y consecuencias. Se tratan como herramientas poderosas y peligrosas.
+
+- [Magia y poderes](./docs/07-magia-y-poderes.md)
+
+## Perfiles y clases predefinidas
+
+Los perfiles sirven como base para empezar rápido sin cerrar la posibilidad de personalizar el personaje.
+
+- [Perfiles y clases predefinidas](./docs/08-perfiles-y-clases.md)
+
+## Resumen de reglas
+
+Versión corta de la mecánica para consulta rápida en la mesa.
+
+- [Resumen de reglas](./docs/99-resumen-de-reglas.md)
+
 ## Casos prácticos
 
 Los ejemplos ayudan a entender el sistema en uso, pero no deben ocupar el centro del manual.
@@ -210,8 +245,6 @@ Los ejemplos ayudan a entender el sistema en uso, pero no deben ocupar el centro
 Se han separado en una página dedicada para no saturar la documentación principal.
 
 - [Casos prácticos y ejemplos de uso](./docs/99-casos-practicos.md)
-
----
 
 ## Resumen rápido
 
@@ -224,39 +257,17 @@ Se han separado en una página dedicada para no saturar la documentación princi
 
 ---
 
-## Siguiente paso
+## Navegación del manual
 
-Si quieres continuar con la estructura de sistema tipo SRD, lo ideal es mantener esta página como índice y ampliar cada documento con:
-
-- tablas de atributos
-- tablas de equipamiento
-- bestiario base
-- normas de combate
-- magia y poderes
-- clases o perfiles predefinidos
-
-El siguiente bloque documental recomendado es:
-
-- [Principios del sistema](./docs/00-principios.md)
-- [Creación del personaje](./docs/01-creacion-personaje.md)
-- [Atributos y especializaciones](./docs/02-atributos-y-clases.md)
-- [Reglas base](./docs/03-reglas-base.md)
-- [Sistema corporal](./docs/04-sistema-corporal.md)
-
----
-
-## Cierre
-
-Este índice funciona como entrada principal del SRD del sistema. La idea es mantener la referencia compacta y dejar la profundidad técnica en páginas separadas para que cada sección pueda crecer sin saturar la portada.
-
-Las páginas dedicadas se pueden ampliar con:
-
-- tablas de atributos avanzadas
-- equipamiento y equipo inicial
-- bestiario base
-- magia y rituales
-- perfiles o clases predefinidas
-- aventuras de ejemplo
-
-La estructura actual deja espacio para ir creciendo de forma ordenada sin perder legibilidad.
+1. [Principios del sistema](./docs/00-principios.md)
+2. [Creación del personaje](./docs/01-creacion-personaje.md)
+3. [Atributos y especializaciones](./docs/02-atributos-y-clases.md)
+4. [Reglas base](./docs/03-reglas-base.md)
+5. [Sistema corporal](./docs/04-sistema-corporal.md)
+6. [Equipo inicial](./docs/05-equipo-inicial.md)
+7. [Bestiario básico](./docs/06-bestiario-basico.md)
+8. [Magia y poderes](./docs/07-magia-y-poderes.md)
+9. [Perfiles y clases predefinidas](./docs/08-perfiles-y-clases.md)
+10. [Resumen de reglas](./docs/99-resumen-de-reglas.md)
+11. [Casos prácticos](./docs/99-casos-practicos.md)
 

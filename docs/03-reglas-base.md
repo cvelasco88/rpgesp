@@ -128,3 +128,5 @@ La fatiga representa desgaste físico, mental o espiritual. Si se acumula demasi
 - Los peligros deben tener consecuencias entendibles.
 
 Para continuar, revisa el sistema corporal en [Sistema corporal](./04-sistema-corporal.md).
+
+[Volver](../)

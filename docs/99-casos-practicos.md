@@ -91,3 +91,5 @@ La habilidad se resuelve con el sistema corporal y la regla de escalones, sin ne
 Estos ejemplos no forman parte del núcleo esencial del sistema; sirven para mostrar cómo se usan las reglas en partidas reales.
 
 Si lo prefieres, puedes dejar este documento como referencia para la mesa y mantener la documentación principal más compacta.
+
+[Volver](../)
