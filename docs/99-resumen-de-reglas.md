@@ -4,12 +4,16 @@ layout: default
 
 # Resumen de reglas
 
+[Volver](../)
+
 ## Sumario
 
 - [Acciones principales](#acciones-principales)
 - [Tiradas básicas](#tiradas-basicas)
 - [Defensa y salvaciones](#defensa-y-salvaciones)
+- [Dificultades](#dificultades)
 - [Vida](#vida)
+- [Poderes](#poderes)
 - [Sistema corporal](#sistema-corporal)
 - [Puntos de desarrollo](#puntos-de-desarrollo)
 - [Regla de oro](#regla-de-oro)
@@ -38,6 +42,19 @@ El resultado se compara con la dificultad o con la Defensa del objetivo.
 | Efecto potencial | Define atributo, competencia, dificultad y consecuencia |
 | Salvar | 1d20 + atributo + competencia contra la dificultad |
 
+## Dificultades
+
+| Dificultad | Situación |
+| ---: | --- |
+| 6 | Fácil con presión |
+| 8 | Sencilla para alguien competente |
+| 10 | Exigente pero habitual |
+| 12 | Difícil |
+| 14 | Muy difícil |
+| 16 | Excepcional |
+| 18 | Casi imposible |
+| 20 | Legendaria |
+
 ## Vida
 
 > Vida = 8 + (Cuerpo × 2) + bonificación de Torso
@@ -56,6 +73,12 @@ La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6
 - Cada zona tiene una función temática.
 - Las zonas potencian habilidades concretas.
 - Una habilidad puede usar como máximo dos zonas para potenciarse.
+
+## Poderes
+
+- Un poder debe definir atributo, requisito, coste y consecuencia de fallo.
+- La tabla d100 de [Magia y poderes](./07-magia-y-poderes.md) sirve como generador provisional.
+- El uso de poderes puede añadir fatiga o dejar una consecuencia en la ficción.
 
 ## Puntos de desarrollo
 
@@ -80,5 +103,3 @@ Un sistema bien diseñado debe ser:
 - fiel a la intención narrativa
 
 Si la regla no ayuda a jugar, no debe estar ahí.
-
-[Volver](../)

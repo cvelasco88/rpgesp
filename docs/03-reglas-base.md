@@ -4,12 +4,15 @@ layout: default
 
 # Reglas base
 
+[Volver](../)
+
 ## Sumario
 
 - [Resolución de acciones](#resolucion-de-acciones)
 - [Tiradas](#tiradas)
 - [Defensa](#defensa)
 - [Salvaciones](#salvaciones)
+- [Dificultad y diferencia de nivel](#dificultad-y-diferencia-de-nivel)
 - [Daño y peligro](#danio-y-peligro)
 - [Inventario y fatiga](#inventario-y-fatiga)
 
@@ -113,6 +116,32 @@ Otros ejemplos:
 | Maldición | 1d20 + Espíritu + Voluntad |
 | Intimidación sobrenatural | 1d20 + Presencia + Voluntad |
 
+## Dificultad y diferencia de nivel
+
+Usa la siguiente escala cuando una acción no se resuelva automáticamente por la ficción. La dificultad 10 representa una tarea exigente pero habitual.
+
+| Dificultad | Tipo de situación |
+| ---: | --- |
+| 6 | Fácil con presión o riesgo menor |
+| 8 | Sencilla para alguien competente |
+| 10 | Exigente, pero habitual |
+| 12 | Difícil para una persona preparada |
+| 14 | Muy difícil o con oposición seria |
+| 16 | Excepcional, requiere especialización o ventaja |
+| 18 | Casi imposible sin una solución extraordinaria |
+| 20 | Hazaña legendaria |
+
+Cuando personajes de niveles o capacidades muy distintos se enfrentan, no añadas una penalización automática. Ajusta la dificultad por la ficción y usa esta guía:
+
+| Diferencia de capacidad | Ajuste sugerido |
+| --- | --- |
+| Similar | Dificultad normal |
+| Una categoría por encima | +2 a la dificultad o ventaja narrativa para el superior |
+| Dos categorías por encima | +4 a la dificultad; busca una solución indirecta |
+| Tres o más categorías | La acción directa suele ser imposible sin preparación, equipo o una debilidad |
+
+La ventaja no sustituye una descripción inteligente: una buena posición puede hacer innecesaria la tirada, incluso contra un enemigo superior.
+
 ## Vida
 
 La Vida depende de Cuerpo y del desarrollo del Torso:
@@ -158,5 +187,3 @@ La fatiga representa desgaste físico, mental o espiritual. Si se acumula demasi
 - Los peligros deben tener consecuencias entendibles.
 
 Para continuar, revisa el sistema corporal en [Sistema corporal](./04-sistema-corporal.md).
-
-[Volver](../)

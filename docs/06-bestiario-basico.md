@@ -4,6 +4,8 @@ layout: default
 
 # Bestiario básico
 
+[Volver](../)
+
 ## Sumario
 
 - [Cómo crear un enemigo](#como-crear-un-enemigo)
@@ -90,5 +92,3 @@ Un enemigo memorable suele tener:
 - un riesgo claro para la partida
 
 No hace falta crear listas enormes; basta con crear amenazas útiles, peligrosas y fáciles de recordar.
-
-[Volver](../)

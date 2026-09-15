@@ -4,6 +4,8 @@ layout: default
 
 # Equipo inicial
 
+[Volver](../)
+
 ## Sumario
 
 - [Inventario base](#inventario-base)
@@ -102,5 +104,3 @@ La carga debe ser una restricción narrativa útil, no una operación matemátic
 | Objeto personal | 1 |
 
 Esto ayuda a que cada personaje parta con identidad y también con necesidades concretas.
-
-[Volver](../)

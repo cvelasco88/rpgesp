@@ -4,6 +4,8 @@ layout: default
 
 # Principios del sistema
 
+[Volver](../)
+
 ## Sumario
 
 - [Neutralidad](#neutralidad)
@@ -77,5 +79,3 @@ Esto mantiene la partida rigurosa, pero también legible.
 - La amenaza existe, pero la dificultad debe ser comprensible.
 
 Para continuar, revisa la sección de [Creación del personaje](./01-creacion-personaje.md).
-
-[Volver](../)

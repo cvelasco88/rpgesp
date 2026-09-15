@@ -4,6 +4,8 @@ layout: default
 
 # Sistema corporal
 
+[Volver](../)
+
 ## Sumario
 
 - [Las diez zonas del cuerpo](#las-diez-zonas-del-cuerpo)
@@ -190,5 +192,3 @@ Requisito: Pie derecho 2 + Pie izquierdo 2.
 Efecto: obtienes la reacción Esquiva, que permite evitar un ataque concreto cuando la ficción lo permite. Esquiva no aumenta la Defensa fija.
 
 Para ver ejemplos más amplios de uso en partida, revisa [Casos prácticos](./99-casos-practicos.md).
-
-[Volver](../)

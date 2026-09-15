@@ -4,6 +4,8 @@ layout: default
 
 # Perfiles y clases predefinidas
 
+[Volver](../)
+
 ## Sumario
 
 - [Cómo crear un perfil](#como-crear-un-perfil)
@@ -89,5 +91,3 @@ Un perfil suele tener:
 ## Regla práctica
 
 Los perfiles ayudan a empezar, pero no borran la libertad del personaje. Cada personaje puede cambiar sus competencias y su estilo sin perder la identidad del perfil base.
-
-[Volver](../)

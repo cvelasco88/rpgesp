@@ -4,6 +4,8 @@ layout: default
 
 # Atributos, tablas y especializaciones
 
+[Volver](../)
+
 ## Sumario
 
 - [Atributos del sistema](#atributos-del-sistema)
@@ -45,6 +47,27 @@ layout: default
 | Presencia | 1 | 2-3 | 4-5 |
 
 > El sistema no exige una escala rígida igual para todos los personajes. La tabla sirve como referencia para una mesa ordenada y equilibrada.
+
+### Conversión de puntos de atributo
+
+Esta tabla resume qué compra cada punto de atributo. Los efectos concretos de una habilidad pueden exigir además una característica o una zona corporal.
+
+| Atributo | Cada punto aporta | Conversión práctica |
+| --- | --- | --- |
+| Cuerpo | 2 puntos corporales | Reparte los puntos entre las diez zonas del cuerpo |
+| Mente | 1 mejora mental | Define una competencia de conocimiento, análisis o concentración |
+| Espíritu | 1 mejora espiritual | Define una competencia de voluntad, fe o canalización |
+| Presencia | 1 competencia social | Define Persuasión, Engaño, Intimidación, Liderazgo o Actuación |
+
+| Valor del atributo | Lectura de referencia |
+| ---: | --- |
+| 1 | Capacidad básica o formación inicial |
+| 2 | Persona competente |
+| 3 | Especialista fiable |
+| 4 | Referente en su campo |
+| 5 | Límite excepcional de una persona normal |
+
+Los valores superiores a 5 deben justificarse mediante poderes, transformaciones, reliquias o circunstancias extraordinarias.
 
 ## Competencias sociales
 
@@ -101,5 +124,3 @@ Para mantener el sistema equilibrado, conviene fijar un marco de referencia al c
 - cada habilidad debe explicitar qué la activa y qué la potencia
 
 Para más detalle sobre reglas de tirada, consulta [Reglas base](./03-reglas-base.md).
-
-[Volver](../)
