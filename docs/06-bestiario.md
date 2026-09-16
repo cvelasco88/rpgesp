@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Bestiario básico
+# Bestiario
 
 [Volver](../)
 

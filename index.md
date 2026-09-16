@@ -20,10 +20,10 @@ La intención del sistema es ofrecer una estructura clara, rápida y brutalmente
 - [Atributos, tablas y especializaciones](./docs/02-atributos-y-clases.md)
 - [Reglas base](./docs/03-reglas-base.md)
 - [Sistema corporal](./docs/04-sistema-corporal.md)
-- [Equipo inicial](./docs/05-equipo-inicial.md)
-- [Bestiario básico](./docs/06-bestiario-basico.md)
+- [Equipo inicial](./docs/01-creacion-personaje-equipo.md)
+- [Bestiario](./docs/06-bestiario.md)
 - [Magia y poderes](./docs/07-magia-y-poderes.md)
-- [Perfiles y clases predefinidas](./docs/08-perfiles-y-clases.md)
+- [Perfiles y clases predefinidas](./docs/01-creacion-personaje-perfiles.md)
 - [Casos prácticos](./docs/99-casos-practicos.md)
 - [Resumen de reglas](./docs/99-resumen-de-reglas.md)
 

@@ -21,7 +21,7 @@ Los contenidos deben quedar repartidos por páginas temáticas:
 - Reglas base
 - Sistema corporal
 - Equipo inicial
-- Bestiario básico
+- Bestiario
 - Magia y poderes
 - Perfiles y clases predefinidas
 - Casos prácticos

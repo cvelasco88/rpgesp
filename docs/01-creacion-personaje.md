@@ -11,42 +11,59 @@ layout: default
 - [Proceso de creación](#proceso-de-creacion)
 - [Nombre y trasfondo](#nombre-y-trasfondo)
 - [Rasgos del personaje](#rasgos-del-personaje)
+- [Edad](#edad)
 - [Puntos de desarrollo por nivel](#puntos-de-desarrollo-por-nivel)
 - [Atributos principales](#atributos-principales)
 - [Competencias y especializaciones](#competencias-y-especializaciones)
 - [Zonas corporales iniciales](#zonas-corporales-iniciales)
 - [Estadísticas iniciales](#estadisticas-iniciales)
 - [Perfil básico del personaje](#perfil-basico-del-personaje)
-- [Equipo y recursos](#equipo-y-recursos)
+- [Equipo inicial](./01-creacion-personaje-equipo.md)
+- [Perfiles y clases predefinidas](./01-creacion-personaje-perfiles.md)
 - [Creación rápida](#creacion-rapida)
 
 ## Proceso de creación
 
-1. Elige o genera nombre, trasfondo y rasgos.
-2. Define el concepto y el pasado del personaje.
+1. Define el concepto y genera o elige nombre, trasfondo y rasgos.
+2. Determina la edad y escribe un detalle del pasado del personaje.
 3. Asigna los atributos y los puntos de desarrollo iniciales.
 4. Escoge competencias y reparte los puntos corporales.
 5. Calcula Vida y Defensa.
 6. Elige el equipo inicial y escribe una motivación.
 
-Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar los dados, elegir un resultado o combinar ambos métodos.
+Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar los dados, elegir un resultado o combinar ambos métodos. Cuando un resultado no encaje con el concepto del personaje, conviértelo en una pregunta para la ficción en lugar de descartarlo sin más.
 
 ## Nombre y trasfondo
 
-### Nombres de aventurera o aventurero (d20)
+### Nombres femeninos (d20)
 
 | d20 | Nombre | d20 | Nombre |
 | ---: | --- | ---: | --- |
-| 1 | Arel | 11 | Lior |
-| 2 | Brena | 12 | Maren |
-| 3 | Cael | 13 | Neris |
-| 4 | Dalia | 14 | Orwen |
-| 5 | Edrin | 15 | Runa |
-| 6 | Fara | 16 | Savel |
-| 7 | Garen | 17 | Tavia |
-| 8 | Hela | 18 | Ulric |
-| 9 | Iven | 19 | Veyra |
-| 10 | Joren | 20 | Ysold |
+| 1 | Agune | 11 | Lirann |
+| 2 | Beatrice | 12 | Lirathil |
+| 3 | Breagan | 13 | Lisabeth |
+| 4 | Bronwyn | 14 | Moralil |
+| 5 | Cannora | 15 | Morgwen |
+| 6 | Drelil | 16 | Sybil |
+| 7 | Elgile | 17 | Theune |
+| 8 | Esme | 18 | Wenain |
+| 9 | Griya | 19 | Ygwal |
+| 10 | Henaine | 20 | Yslen |
+
+### Nombres masculinos (d20)
+
+| d20 | Nombre | d20 | Nombre |
+| ---: | --- | ---: | --- |
+| 1 | Arwel | 11 | Grinwit |
+| 2 | Bevan | 12 | Gruwid |
+| 3 | Boroth | 13 | Gruwth |
+| 4 | Borrid | 14 | Gwestin |
+| 5 | Breagle | 15 | Mannog |
+| 6 | Breglor | 16 | Melnax |
+| 7 | Canhoreal | 17 | Orthax |
+| 8 | Emrys | 18 | Triunein |
+| 9 | Ethex | 19 | Wenlan |
+| 10 | Gringle | 20 | Yirmeor |
 
 ### Apellido, apodo o casa (d20)
 
@@ -78,13 +95,13 @@ Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar
 | 9 | Guía de caminos | 19 | Testigo de lo oculto |
 | 10 | Herrera o herrero | 20 | Contrabandista |
 
-El trasfondo no concede una bonificación automática. Indica qué conocimientos, contactos y herramientas puede tener sentido que el personaje posea.
+Elige o tira una vez en cada tabla. El trasfondo no concede una bonificación automática: indica qué conocimientos, contactos y herramientas puede tener sentido que el personaje posea.
 
 ## Rasgos del personaje
 
 Tira 1d10 en una o varias tablas, o elige los rasgos que mejor ayuden a imaginar al personaje.
 
-### Aspecto físico (d10)
+### Físico (d10)
 
 | d10 | Rasgo | d10 | Rasgo |
 | ---: | --- | ---: | --- |
@@ -94,7 +111,7 @@ Tira 1d10 en una o varias tablas, o elige los rasgos que mejor ayuden a imaginar
 | 4 | Desgarbado o desgarbada | 9 | Musculoso o musculosa |
 | 5 | Elegante | 10 | Robusto o robusta |
 
-### Piel y marcas (d10)
+### Piel (d10)
 
 | d10 | Rasgo | d10 | Rasgo |
 | ---: | --- | ---: | --- |
@@ -104,17 +121,27 @@ Tira 1d10 en una o varias tablas, o elige los rasgos que mejor ayuden a imaginar
 | 4 | Tatuajes | 9 | Piel muy pálida |
 | 5 | Marcas de trabajo | 10 | Pintura ritual |
 
-### Cabello y rostro (d10)
+### Cabello (d10)
 
 | d10 | Rasgo | d10 | Rasgo |
 | ---: | --- | ---: | --- |
-| 1 | Afeitado | 6 | Trenzado |
-| 2 | Canoso | 7 | Desordenado |
-| 3 | Corto | 8 | Largo |
-| 4 | Enmarañado | 9 | Ondulado |
-| 5 | Rapado a medias | 10 | Siempre cubierto |
+| 1 | Abundante | 6 | Largo |
+| 2 | Calvo o calva | 7 | Ondulado |
+| 3 | Encrespado | 8 | Rizado |
+| 4 | Escaso | 9 | Sucio |
+| 5 | Grasiento | 10 | Trenzado |
 
-### Voz y manera de hablar (d10)
+### Rostro (d10)
+
+| d10 | Rasgo | d10 | Rasgo |
+| ---: | --- | ---: | --- |
+| 1 | Afilado | 6 | Desfigurado |
+| 2 | Alargado | 7 | Huesudo |
+| 3 | Cincelado | 8 | Pálido |
+| 4 | Cuadrado | 9 | Perfecto |
+| 5 | De mejillas hundidas | 10 | Ratonil |
+
+### Voz (d10)
 
 | d10 | Rasgo | d10 | Rasgo |
 | ---: | --- | ---: | --- |
@@ -124,29 +151,66 @@ Tira 1d10 en una o varias tablas, o elige los rasgos que mejor ayuden a imaginar
 | 4 | Dramática | 9 | Susurrante |
 | 5 | Entrecortada | 10 | Usa refranes |
 
-### Virtud (d10)
+### Vestimenta (d10)
 
 | d10 | Rasgo | d10 | Rasgo |
 | ---: | --- | ---: | --- |
-| 1 | Atenta o atento | 6 | Honrada u honrado |
-| 2 | Compasiva o compasivo | 7 | Paciente |
-| 3 | Curiosa o curioso | 8 | Prudente |
-| 4 | Disciplinada o disciplinado | 9 | Sereno o serena |
-| 5 | Generosa o generoso | 10 | Valiente |
+| 1 | Antigua | 6 | Ensangrentada |
+| 2 | Con barro | 7 | Elegante |
+| 3 | De otro lugar | 8 | Maloliente |
+| 4 | Desalineada | 9 | Sucia |
+| 5 | Deshilachada | 10 | Uniforme |
 
-### Complicación (d10)
+### Virtud (d10)
 
-| d10 | Problema | d10 | Problema |
+| d10 | El personaje es... | d10 | El personaje es... |
 | ---: | --- | ---: | --- |
-| 1 | Deuda pendiente | 6 | Juramento peligroso |
-| 2 | Enemiga o enemigo | 7 | Miedo secreto |
-| 3 | Fama equivocada | 8 | Promesa rota |
-| 4 | Familiar desaparecido | 9 | Secreto comprometedor |
-| 5 | Herencia disputada | 10 | Testigo de un crimen |
+| 1 | Ambicioso o ambiciosa | 6 | Precavido o precavida |
+| 2 | Disciplinado o disciplinada | 7 | Sereno o serena |
+| 3 | Honorable | 8 | Sociable |
+| 4 | Humilde | 9 | Tolerante |
+| 5 | Misericordioso o misericordiosa | 10 | Valiente |
 
-### Edad (2d20 + 10)
+### Vicio (d10)
 
-Tira 2d20 y suma 10. El resultado sirve como orientación, no como límite biológico. Una edad avanzada puede justificar experiencia; una edad temprana puede justificar contactos, talentos o deudas heredadas.
+| d10 | El personaje es... | d10 | El personaje es... |
+| ---: | --- | ---: | --- |
+| 1 | Agresivo o agresiva | 6 | Mentiroso o mentirosa |
+| 2 | Amargado o amargada | 7 | Nervioso o nerviosa |
+| 3 | Avaricioso o avariciosa | 8 | Perezoso o perezosa |
+| 4 | Codicioso o codiciosa | 9 | Rudo o ruda |
+| 5 | Engreído o engreída | 10 | Vengativo o vengativa |
+
+### Reputación (d10)
+
+| d10 | Se dice que el personaje es... | d10 | Se dice que el personaje es... |
+| ---: | --- | ---: | --- |
+| 1 | Ambicioso o ambiciosa | 6 | Honrado u honrada |
+| 2 | Un bicho raro | 7 | Un patán |
+| 3 | Desagradable | 8 | Peligroso o peligrosa |
+| 4 | Divertido o divertida | 9 | Respetado o respetada |
+| 5 | Holgazán o holgazana | 10 | Sabio o sabia |
+
+### Desgracia (d10)
+
+| d10 | El personaje es o está... | d10 | El personaje es o está... |
+| ---: | --- | ---: | --- |
+| 1 | Abandonado o abandonada | 6 | Degradado o degradada |
+| 2 | Adicto o adicta | 7 | Desheredado o desheredada |
+| 3 | Chantajeado o chantajeada | 8 | Desacreditado o desacreditada |
+| 4 | Condenado o condenada | 9 | Exiliado o exiliada |
+| 5 | Defraudado o defraudada | 10 | Maldito o maldita |
+
+## Edad
+
+Tira 2d20 y suma 10. El resultado orienta la edad del personaje, pero no impone un límite biológico. Una edad avanzada puede justificar experiencia; una edad temprana puede justificar contactos, talentos o deudas heredadas.
+
+| 2d20 + 10 | Edad orientativa |
+| ---: | --- |
+| 12-20 | Adolescente o adulto joven |
+| 21-30 | Adulto |
+| 31-40 | Adulto experimentado |
+| 41-50 | Persona anciana o excepcionalmente longeva |
 
 ---
 
@@ -185,6 +249,14 @@ Cada personaje se define por cuatro atributos generales:
 | Mente | Conocimiento, razonamiento y atención intelectual | Investigación, magia, lógica, percepción, análisis |
 | Espíritu | Voluntad, fe, conexión sobrenatural, resistencia espiritual | Poderes, resistencias mentales, fe y rituales |
 | Presencia | Autoridad, personalidad, carisma y fuerza social | Persuasión, intimidación, mando, manipulación |
+
+### Puntuaciones de los atributos
+
+Comienza con 3 puntos en cada atributo y reparte 3 puntos de desarrollo iniciales entre ellos. Ningún atributo puede superar 5 durante la creación sin una justificación especial del guardián.
+
+También puedes crear un personaje aleatorio tirando 1d6 para cada atributo y usando el resultado como su puntuación, reduciéndolo a 5 si fuera necesario. Después, reparte 2 puntos entre dos atributos distintos. Este método es opcional y sirve para personajes que quieran descubrir su concepto durante la creación.
+
+Elige primero el atributo que expresa la forma principal de actuar del personaje. Los atributos no son clases: describen capacidades y dejan que la ficción determine cómo se aplican.
 
 ## Competencias y especializaciones
 
@@ -228,19 +300,6 @@ Un método breve para empezar una partida:
 6. Establece Defensa, equipo y estilo de combate.
 7. Calcula la Vida según Cuerpo y el desarrollo del Torso.
 
-### Estadísticas iniciales
-
-Usa estas fórmulas después de asignar los atributos y los puntos corporales:
-
-| Elemento | Fórmula |
-| --- | --- |
-| Vida | 8 + (Cuerpo × 2) + bonificación de Torso |
-| Defensa | 10 + Cuerpo + características y equipo |
-| Ataque | 1d20 + atributo apropiado + competencia |
-| Salvación | 1d20 + atributo apropiado + competencia |
-
-La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6-7 y +8 con 8 o más.
-
 ## Zonas corporales iniciales
 
 Cuerpo concede 2 puntos corporales por cada punto de atributo. Reparte esos puntos entre las diez zonas. No es obligatorio repartirlos de forma equilibrada.
@@ -256,63 +315,26 @@ Cuerpo concede 2 puntos corporales por cada punto de atributo. Reparte esos punt
 
 Las zonas con lado derecho e izquierdo pueden cumplir requisitos separados. Por ejemplo, `Pie derecho 2 + Pie izquierdo 2` permite obtener Pies ligeros.
 
-## Equipo y recursos
+## Estadísticas iniciales
 
-Todos los personajes comienzan con:
+Calcula estas estadísticas después de asignar los atributos, competencias y puntos corporales:
 
-- raciones para tres días
-- una fuente de luz
-- una mochila o bolsa
-- una herramienta relacionada con su trasfondo
-- un objeto personal
+| Elemento | Fórmula o referencia |
+| --- | --- |
+| Vida | 8 + (Cuerpo × 2) + bonificación de Torso |
+| Defensa | 10 + Cuerpo + características y equipo |
+| Ataque | 1d20 + atributo apropiado + competencia |
+| Salvación | 1d20 + atributo apropiado + competencia |
 
-Después, tira una vez en cada tabla o elige un resultado.
+La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6-7 y +8 con 8 o más.
 
-### Protección (d20)
+La Vida representa la capacidad del personaje para seguir actuando. La Defensa representa lo difícil que es alcanzarle. Ninguna de las dos sustituye a la descripción de la herida, el cansancio o las consecuencias que determine la ficción.
 
-| d20 | Equipo | d20 | Equipo |
-| ---: | --- | ---: | --- |
-| 1-5 | Ninguna protección | 14-16 | Casco y protección ligera |
-| 6-10 | Ropa reforzada | 17-19 | Armadura ligera |
-| 11-13 | Escudo o protección de brazo | 20 | Protección pesada, voluminosa |
+## Equipo inicial
 
-### Arma (d20)
+El equipo inicial es una subpágina de esta sección. Allí encontrarás el inventario, las tablas de generación d20/d100, el listado de precios y las reglas de carga.
 
-| d20 | Equipo | d20 | Equipo |
-| ---: | --- | ---: | --- |
-| 1-5 | Daga, garrote o bastón (1d6) | 14-16 | Arco, honda o ballesta ligera |
-| 6-10 | Espada, lanza, hacha o maza (1d8) | 17-19 | Dos armas ligeras (1d6 + 1d6) |
-| 11-13 | Arma de asta (1d10, voluminosa) | 20 | Arma singular del trasfondo |
-
-### Herramienta de expedición (d20)
-
-| d20 | Herramienta | d20 | Herramienta |
-| ---: | --- | ---: | --- |
-| 1 | Aceite | 11 | Ganzúas |
-| 2 | Antitoxina | 12 | Gancho de agarre |
-| 3 | Cuerda | 13 | Grilletes |
-| 4 | Espejo | 14 | Linterna |
-| 5 | Frasco vacío | 15 | Pala |
-| 6 | Hilo y aguja | 16 | Palanca |
-| 7 | Kit de curación | 17 | Polea |
-| 8 | Martillo y clavos | 18 | Red |
-| 9 | Odre extra | 19 | Tiza y carbón |
-| 10 | Pica | 20 | Trampa pequeña |
-
-### Baratija personal (d20)
-
-| d20 | Objeto | d20 | Objeto |
-| ---: | --- | ---: | --- |
-| 1 | Amuleto roto | 11 | Carta sin enviar |
-| 2 | Baraja marcada | 12 | Diente de animal |
-| 3 | Botella de color extraño | 13 | Llave sin cerradura |
-| 4 | Campanilla | 14 | Moneda extranjera |
-| 5 | Cuchara grabada | 15 | Pequeño espejo |
-| 6 | Dado trucado | 16 | Retrato desvaído |
-| 7 | Emblema de una casa | 17 | Silbato |
-| 8 | Fragmento de mapa | 18 | Talismán de madera |
-| 9 | Hebilla heredada | 19 | Vela perfumada |
-| 10 | Libro de cuentas | 20 | Objeto de origen desconocido |
+Consulta [Equipo inicial](./01-creacion-personaje-equipo.md) para completar el personaje.
 
 ---
 
@@ -326,3 +348,5 @@ Después, tira una vez en cada tabla o elige un resultado.
 | Presencia +1 | +1 punto de competencia social | Ideal para diplomáticos, líderes y manipuladores |
 
 Para pasar a las reglas de resolución, consulta [Reglas base](./03-reglas-base.md).
+
+[regresar al contenido](#sumario)
