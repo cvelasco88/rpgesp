@@ -2,15 +2,18 @@
 layout: default
 ---
 
-# Magia y poderes
+# Magia
 
 [Volver](../)
 
 ## Sumario
 
 - [Principio general](#principio-general)
-- [Cómo se lanza un poder](#como-se-lanza-un-poder)
+- [Objetos mágicos](#objetos-magicos)
+- [Lanzar hechizos](#lanzar-hechizos)
+- [Diseñar un poder](#disenar-un-poder)
 - [Tipos de poder](#tipos-de-poder)
+- [Ejemplos de reliquias](#ejemplos-de-reliquias)
 - [Poderes habituales](#poderes-habituales)
 - [Tabla provisional de poderes (d100)](#tabla-provisional-de-poderes-d100)
 - [Riesgos del uso de la magia](#riesgos-del-uso-de-la-magia)
@@ -25,18 +28,73 @@ Todo poder debe responder a preguntas básicas:
 
 - ¿Qué hace?
 - ¿Qué atributo lo activa?
+- ¿Qué objeto, requisito o preparación necesita?
 - ¿Qué coste tiene?
 - ¿Qué pasa si falla?
 - ¿Qué lo limita?
 
-## Cómo se lanza un poder
+La magia puede resolver una situación de forma extraordinaria, pero no sustituye una descripción clara. El poder debe indicar qué puede afectar, durante cuánto tiempo y qué queda fuera de su alcance.
 
-Un poder suele requerir:
+## Objetos mágicos
 
-- un atributo apropiado
-- un foco o ritual concreto
-- una acción o tiempo de preparación
-- una consecuencia si se usa en exceso
+### Libros de hechizos
+
+Un libro de hechizos contiene un único hechizo y ocupa un espacio de inventario. No puede copiarse ni fabricarse mediante métodos ordinarios: se encuentra en tumbas, ruinas, mazmorras, bibliotecas prohibidas o mansiones abandonadas.
+
+Un libro puede tener una propiedad o limitación especial que forme parte de su historia. Por ejemplo, puede oler a ozono cuando se abre, contener una inteligencia propia, mostrar el texto solo bajo la luz de la luna o exigir que se lea en una lengua concreta.
+
+Los libros de hechizos atraen la atención de quienes buscan poder arcano. Mostrar uno abiertamente puede revelar la posición del grupo, provocar una persecución o crear una deuda. Un libro no desaparece al lanzarse el hechizo, pero puede perderse, dañarse o destruirse como consecuencia de la ficción.
+
+### Pergaminos
+
+Un pergamino contiene un único hechizo y se consume al utilizarlo. A diferencia de un libro de hechizos:
+
+- no ocupa un espacio de inventario
+- no añade fatiga por sí mismo
+- desaparece después del lanzamiento
+- no permite repetir el hechizo
+
+El pergamino sigue necesitando la lectura, el gesto o el requisito que indique el hechizo. Si se activa en una situación peligrosa, también puede provocar una consecuencia de fallo.
+
+### Reliquias
+
+Una reliquia es un objeto imbuido con un hechizo o poder. No añade fatiga por activarse, pero tiene un número limitado de cargas, usos o condiciones. Su ficha debe indicar:
+
+- efecto
+- cargas o usos disponibles
+- alcance y duración
+- condición de recarga
+- cualquier riesgo o limitación
+
+Una reliquia no es un libro de hechizos: su poder está ligado al objeto y puede ser utilizado por alguien que no conozca magia, siempre que pueda empuñarlo o satisfacer su condición.
+
+## Lanzar hechizos
+
+Para lanzar un hechizo desde un libro, el personaje debe sostenerlo con ambas manos y leerlo en voz alta. El lanzamiento normal no requiere una tirada: si el personaje tiene tiempo, entiende el texto y no está bajo presión, el hechizo funciona según su descripción.
+
+Cada lanzamiento desde un libro añade 1 punto de fatiga a un espacio de inventario. Lanzar un pergamino no añade fatiga. Activar una reliquia tampoco, salvo que la propia reliquia indique otro coste.
+
+Si el personaje dispone de tiempo y tranquilidad, puede **mejorar** el efecto de un hechizo sin añadir fatiga. Mejorar puede significar afectar a más objetivos, aumentar el alcance, prolongar la duración o conseguir una precisión excepcional. El guardián decide si la mejora es razonable para el hechizo y la situación.
+
+Si el personaje está exhausto, herido, distraído o en peligro inmediato, el guardián puede exigir una salvación de Espíritu. Si el personaje tiene la característica Canalización o una competencia apropiada, puede aplicarla según sus requisitos. La dificultad debe corresponder al riesgo del lanzamiento. Un fallo no tiene por qué cancelar el hechizo: puede producir una consecuencia relacionada, como fatiga adicional, pérdida de control, daño al entorno, deterioro del foco, lesión o atraer una amenaza.
+
+Si el personaje no tiene Canalización cuando el hechizo la exige, puede intentar el lanzamiento cuando la ficción lo permita, pero la dificultad aumenta o la consecuencia es más severa. El guardián debe anunciar el riesgo antes de la tirada.
+
+El poder de un hechizo no permite ignorar automáticamente una defensa, una salvación o una consecuencia. Cuando el efecto actúe directamente sobre otra criatura, usa el atributo, la competencia y la dificultad que indique el hechizo.
+
+## Diseñar un poder
+
+Un poder debe incluir, como mínimo:
+
+- **Efecto:** qué cambia en la ficción.
+- **Atributo:** Cuerpo, Mente, Espíritu o Presencia.
+- **Requisito:** libro, reliquia, gesto, componente, zona corporal o competencia.
+- **Alcance:** qué puede afectar y a qué distancia.
+- **Duración:** cuánto permanece el efecto.
+- **Coste:** fatiga, carga, uso, tiempo o condición.
+- **Riesgo:** qué ocurre si se lanza bajo presión o se falla una salvación.
+
+Un poder puede funcionar automáticamente cuando su efecto es sencillo y la ficción lo permite. Si existe oposición, usa una tirada normal o una salvación del objetivo. No añadas una tirada solo por tratarse de magia.
 
 El coste puede ser:
 
@@ -53,6 +111,22 @@ El coste puede ser:
 | Místico | Conexión espiritual, protección, sanación, augurios |
 | Psíquico | Influencia mental, percepción, manipulación, visión de fondo |
 | Ancestral | Poder ligado al linaje, la tradición o la historia |
+
+## Ejemplos de reliquias
+
+Las reliquias no causan fatiga al activarse, pero siempre tienen un límite claro. Una carga se gasta cuando el efecto se completa; una reliquia de un solo uso desaparece o queda inerte después de utilizarse. La recarga debe ser concreta, exigente y coherente con la historia del objeto.
+
+### Ejemplos
+
+**Abrazo de miel**, 3 cargas. Un anillo oxidado reduce al portador hasta dejarlo de 15 centímetros de alto. Recarga: sumergirlo en una taza de jalea real del tamaño de un dedal.
+
+**Amigo del halconero**, 1 carga. Una varita con forma de virote acelera a una criatura durante una escena. Recarga: dispararla con una ballesta y recuperarla después.
+
+**Bastón del silencio**, 1 carga. Una vara ennegrecida apaga temporalmente la magia en un radio de 15 metros. Recarga: exponerla a la luz de la luna llena.
+
+**Embozo de ley**, 1 uso. Un hongo de motas verdes elimina 1 fatiga de quien lo ingiere. Después, el personaje debe superar una salvación de Espíritu contra dificultad 14 o queda exhausto y desarrolla una dependencia. Comer otro embozo elimina temporalmente el agotamiento, pero no resuelve la dependencia.
+
+Una reliquia puede tener voluntad, exigir un precio, atraer enemigos o producir un efecto secundario. Esas propiedades deben aparecer en su descripción y no improvisarse solo para castigar una mala tirada.
 
 ## Poderes habituales
 
@@ -178,12 +252,16 @@ El poder obtenido debe concretarse con un atributo, un requisito, un coste y una
 
 La magia tiene costes y peligros claros:
 
-- fatiga física o mental
+- fatiga, cuando el hechizo o el objeto la indique
 - explosión de energía
 - pérdida de control
 - consecuencias traumáticas
 - consecuencias de fracaso
 
-Un poder no debe ser solo fuerte; también debe ser costoso.
+Los riesgos deben corresponder al efecto. Un hechizo que intenta dominar una mente puede provocar confusión o atraer la atención de esa mente; uno que altera el espacio puede desplazar al lanzador o abrir una ruta no deseada. No conviertas cada fallo en una muerte automática, pero tampoco elimines las consecuencias de usar magia bajo presión.
+
+Un poder no debe ser solo fuerte; también debe tener límites que permitan tomar decisiones.
 
 La magia es una herramienta poderosa, pero arriesgada, y debería dejar huella en el personaje o en el escenario.
+
+[regresar al contenido](#sumario)

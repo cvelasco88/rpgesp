@@ -79,7 +79,7 @@ Para el desarrollo completo, consulta [Sistema corporal](./03-reglas-sistema-cor
 ## Poderes
 
 - Un poder debe definir atributo, requisito, coste y consecuencia de fallo.
-- La tabla d100 de [Magia y poderes](./07-magia-y-poderes.md) sirve como generador provisional.
+- La tabla d100 de [Magia](./07-magia-y-poderes.md) sirve como generador provisional.
 - El uso de poderes puede añadir fatiga o dejar una consecuencia en la ficción.
 
 ## Puntos de desarrollo
