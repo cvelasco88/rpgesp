@@ -135,7 +135,7 @@ Estos inventarios son plantillas opcionales para comenzar rápidamente. No son c
 - hacha de mano (1d6)
 - armadura de cuero (Armadura 1)
 - trampa de gran tamaño
-- sabueso (PG 2, DES 12, mordisco 1d6)
+- sabueso (Defensa 12, Cuerpo 1, mordisco 1d6)
 - cuerno atronador
 
 ### Fraile

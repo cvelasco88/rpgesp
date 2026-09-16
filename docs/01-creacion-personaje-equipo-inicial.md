@@ -20,15 +20,19 @@ layout: default
 
 ## Inventario base
 
-Todo personaje comienza con una base de equipamiento funcional para explorar, sobrevivir y enfrentarse a amenazas.
+Todo personaje comienza con una base de equipamiento funcional para explorar, sobrevivir y enfrentarse a amenazas. La capacidad inicial es de 10 espacios: seis en la mochila, uno en cada mano y dos espacios superiores, que pueden corresponder al cinturón, el pecho o la cabeza.
+
+La mochila puede servir como saco de dormir en una emergencia, pero solo cuando se ha vaciado por completo. Los espacios representan volumen y facilidad de transporte, no una medida exacta; el guardián puede reorganizarlos cuando la ficción lo justifique.
 
 ### Inventario mínimo recomendado
 
-- raciones para varios días
-- antorcha o fuente de luz simple
-- mochila o bolsa de transporte
-- herramienta útil para la especialidad del personaje
+- raciones para tres días (un espacio)
+- una antorcha o fuente de luz (un espacio)
+- una mochila (seis espacios interiores)
+- una herramienta útil para la especialidad del personaje
 - un objeto simbólico o personal
+
+La mochila y los espacios que contiene forman parte del inventario, no son una capacidad adicional. Los objetos pequeños pueden agruparse en un solo espacio. Los objetos voluminosos ocupan dos espacios y normalmente requieren las dos manos o dificultan el transporte.
 
 El inventario no tiene que ser enorme para empezar. Lo importante es que cada objeto tenga uso y provoque decisiones de estrategia.
 
@@ -46,7 +50,7 @@ El equipo se puede dividir en varias categorías:
 
 ## Tablas de equipo inicial
 
-Todos los personajes comienzan con raciones para tres días, una fuente de luz, una mochila, una herramienta relacionada con su trasfondo y 3d6 monedas. Después, realiza una tirada en cada tabla o elige un resultado.
+Todos los personajes comienzan con raciones para tres días, una antorcha, una mochila y 3d6 monedas. Después, realiza una tirada en cada tabla o elige un resultado. Elige un solo objeto por cada resultado, salvo que la propia entrada indique una cantidad o un conjunto.
 
 ### Armadura (d20)
 
@@ -183,7 +187,9 @@ Cada arma o defensa debe indicar:
 
 ## Regla de carga
 
-El inventario debe ser comprensible y rápido de usar. Si el personaje lleva demasiado equipo, puede verse obstaculizado por:
+Un personaje no puede cargar más objetos de los que permiten sus espacios disponibles. Si el inventario queda completamente lleno, se considera sobrecargado: el guardián puede aplicar fatiga, reducir su movilidad o exigir que deje algo atrás. Si el personaje intenta transportar todavía más, debe usar un animal o vehículo, contratar a un seguidor o aceptar una consecuencia acordada con el guardián. La sobrecarga no reduce automáticamente la Vida; sus consecuencias dependen de la situación.
+
+El inventario debe ser comprensible y rápido de usar. La sobrecarga puede verse reflejada en:
 
 - reducción de movilidad
 - pérdida de reacción o agilidad
@@ -192,10 +198,11 @@ El inventario debe ser comprensible y rápido de usar. Si el personaje lleva dem
 
 Se recomienda usar una regla clara:
 
-- cada objeto ocupa un espacio
-- objetos pequeños pueden agruparse
-- objetos voluminosos ocupan dos o más espacios
-- un personaje cargado no puede moverse ni actuar con normalidad
+- cada objeto ocupa un espacio, salvo que se indique lo contrario
+- los objetos pequeños pueden agruparse
+- los objetos voluminosos ocupan dos espacios
+- una carreta, un caballo o una mula aumentan la capacidad según el listado de equipo
+- un personaje sobrecargado no puede moverse ni actuar con normalidad
 
 La carga debe ser una restricción narrativa útil, no una operación matemática pesada.
 

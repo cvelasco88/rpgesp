@@ -17,213 +17,95 @@ layout: default
 - [Puntos de desarrollo por nivel](#puntos-de-desarrollo-por-nivel)
 - [Distribución corporal](#distribucion-corporal)
 - [Estadísticas iniciales](#estadisticas-iniciales)
-- [Perfil básico del personaje](#perfil-basico-del-personaje)
+- [Tablas de identidad](#tablas-de-identidad)
 - [Atributos y especializaciones](./01-creacion-personaje-atributos.md)
 - [Equipo inicial](./01-creacion-personaje-equipo-inicial.md)
 - [Perfiles y clases predefinidas](./01-creacion-personaje-perfiles.md)
-- [Creación rápida](#creacion-rapida)
 
 ## Crear un personaje
 
 Crear un personaje consiste en decidir **quién es**, **qué sabe hacer** y **por qué se arriesga**. No necesitas elegir una clase cerrada: su identidad nace de la combinación de **trasfondo**, **atributos**, **competencias**, **cuerpo** y **equipo**.
 
-Primero define una idea sencilla. Después elige o genera un [**nombre y trasfondo**](#nombre-y-trasfondo), unos [**rasgos**](#rasgos-del-personaje) y una [**edad**](#edad). Estas decisiones no son decoración: indican qué conoce el personaje, qué relaciones puede tener y qué problemas pueden entrar en juego.
-
-Luego completa sus capacidades. [**Cuerpo, Mente, Espíritu y Presencia**](#atributos-y-competencias) describen sus áreas generales; las competencias muestran cómo aplica esas capacidades. La [**distribución corporal**](#distribucion-corporal) concreta su forma de actuar y sus especializaciones físicas.
-
-Por último calcula [**Vida y Defensa**](#estadisticas-iniciales), prepara el **inventario** y elige el [**equipo inicial**](./01-creacion-personaje-equipo-inicial.md). La ficha queda lista cuando también tiene una **motivación** y un vínculo con el mundo.
-
-**Ejemplo:** una jugadora quiere interpretar a una antigua guardia. Elige el trasfondo de soldada, toma **Cuerpo** como atributo principal, escoge **Resistencia** y **Liderazgo** como competencias, y reparte más puntos corporales entre **Torso** y **Brazos**. La historia y las reglas empiezan a contar lo mismo.
+La clave no es llenar una ficha con números, sino que cada decisión ayude a contar una historia. Un personaje útil en la mesa tiene una presencia clara, unas capacidades definidas y una razón para meterse en problemas. Si una tirada o un dato no sugiere ninguna historia, conviértelo en una pregunta para la partida.
 
 ## Proceso de creación
 
-1. Define el concepto y genera o elige [nombre, trasfondo y rasgos](#nombre-y-trasfondo).
-2. Determina la [edad](#edad) y escribe un detalle del pasado del personaje.
-3. Asigna los [atributos y competencias](#atributos-y-competencias), junto con los puntos de desarrollo iniciales.
-4. Reparte los puntos corporales entre las zonas de la [distribución corporal](#distribucion-corporal).
-5. Calcula [Vida y Defensa](#estadisticas-iniciales), y escribe una motivación.
-6. Elige el [equipo inicial](./01-creacion-personaje-equipo-inicial.md) y un detalle que conecte al personaje con el mundo.
+1. Define el concepto y la intención del personaje.
+2. Elige o genera [nombre, trasfondo y rasgos](#nombre-y-trasfondo).
+3. Determina la [edad](#edad) y escribe un detalle del pasado.
+4. Asigna los [atributos y competencias](#atributos-y-competencias), junto con los puntos de desarrollo iniciales.
+5. Reparte los puntos corporales entre las zonas de la [distribución corporal](#distribucion-corporal).
+6. Calcula [Vida y Defensa](#estadisticas-iniciales) y escribe una motivación.
+7. Elige el [equipo inicial](./01-creacion-personaje-equipo-inicial.md) y un vínculo con el mundo.
 
-Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar los dados, elegir un resultado o combinar ambos métodos. Cuando un resultado no encaje con el concepto del personaje, conviértelo en una pregunta para la ficción en lugar de descartarlo sin más.
+Puedes elegir cada resultado o generarlo con las tablas. Un método completamente aleatorio es tirar una vez para el nombre, el trasfondo, la edad y al menos tres rasgos; después, interpreta los resultados y ajusta cualquier elemento que impida jugar el personaje que quieres.
 
-## Nombre y trasfondo
+Este orden ayuda a que la ficha evolucione de la identidad a la mecánica. La parte estadística no reemplaza la historia; la historia da sentido a las tiradas.
 
-### Nombres femeninos (d20)
+### 1. Define el concepto y la intención
 
-| d20 | Nombre | d20 | Nombre |
-| ---: | --- | ---: | --- |
-| 1 | Agune | 11 | Lirann |
-| 2 | Beatrice | 12 | Lirathil |
-| 3 | Breagan | 13 | Lisabeth |
-| 4 | Bronwyn | 14 | Moralil |
-| 5 | Cannora | 15 | Morgwen |
-| 6 | Drelil | 16 | Sybil |
-| 7 | Elgile | 17 | Theune |
-| 8 | Esme | 18 | Wenain |
-| 9 | Griya | 19 | Ygwal |
-| 10 | Henaine | 20 | Yslen |
+Empieza con una idea breve: ¿quién es este personaje, qué lo distingue y por qué merece la atención del grupo? Una frase útil suele bastar: “es una exguardiana, confiable y orgullosa, que quiere recuperar una promesa rota”.
 
-### Nombres masculinos (d20)
+A partir de ese concepto, elige tres cosas muy concretas:
 
-| d20 | Nombre | d20 | Nombre |
-| ---: | --- | ---: | --- |
-| 1 | Arwel | 11 | Grinwit |
-| 2 | Bevan | 12 | Gruwid |
-| 3 | Boroth | 13 | Gruwth |
-| 4 | Borrid | 14 | Gwestin |
-| 5 | Breagle | 15 | Mannog |
-| 6 | Breglor | 16 | Melnax |
-| 7 | Canhoreal | 17 | Orthax |
-| 8 | Emrys | 18 | Triunein |
-| 9 | Ethex | 19 | Wenlan |
-| 10 | Gringle | 20 | Yirmeor |
+- una identidad o papel central;
+- un conjunto de habilidades que la definan;
+- un conflicto o deseo que le empuje a actuar.
 
-### Apellido, apodo o casa (d20)
+**Ejemplo:** una jugadora quiere interpretar a una antigua guardia. Su personaje es disciplinada, sabe manejar la violencia con control y quiere recuperar el honor perdido. Ese eje le servirá para elegir trasfondo, atributos y equipo.
 
-| d20 | Resultado | d20 | Resultado |
-| ---: | --- | ---: | --- |
-| 1 | Barroviejo | 11 | Piedraluna |
-| 2 | Brumaclara | 12 | Rastroverde |
-| 3 | Caldero | 13 | Salmuera |
-| 4 | Cenicero | 14 | Sombracorta |
-| 5 | Cuervonal | 15 | Tormenta |
-| 6 | Dientedehierro | 16 | Tresnudos |
-| 7 | Escarchado | 17 | Vadoalto |
-| 8 | Fuenteciega | 18 | Valgrís |
-| 9 | Hojamala | 19 | Velaparda |
-| 10 | Lanzaquieta | 20 | Zarzablanca |
+### 2. Nombre, trasfondo y rasgos
 
-### Trasfondo (d20)
+La identidad del personaje se ve reforzada por lo que ha vivido y por cómo se presenta al resto. Un nombre sugiere origen; un trasfondo sugiere experiencia; los rasgos sugieren presencia.
 
-| d20 | Trasfondo | d20 | Trasfondo |
-| ---: | --- | ---: | --- |
-| 1 | Aprendiz de alquimia | 11 | Guardabosques |
-| 2 | Artesana o artesano | 12 | Herbolaria o herbolario |
-| 3 | Carterista | 13 | Jornalera o jornalero |
-| 4 | Cazadora o cazador | 14 | Marinera o marinero |
-| 5 | Curandera o curandero | 15 | Mercader |
-| 6 | Exiliada o exiliado | 16 | Minera o minero |
-| 7 | Exploradora o explorador | 17 | Peregrina o peregrino |
-| 8 | Granuja de ciudad | 18 | Soldada o soldado |
-| 9 | Guía de caminos | 19 | Testigo de lo oculto |
-| 10 | Herrera o herrero | 20 | Contrabandista |
+No es necesario usar lo que salga al azar si no encaja con la idea del personaje. Puedes elegirlo, combinarlo o transformarlo en un detalle narrativo del pasado. Las tablas más abajo sirven como inspiración, no como obligación.
 
-Elige o tira una vez en cada tabla. El trasfondo no concede una bonificación automática: indica qué conocimientos, contactos y herramientas puede tener sentido que el personaje posea.
+Consulta [Nombre y trasfondo](#nombre-y-trasfondo) y [Rasgos del personaje](#rasgos-del-personaje) para generar o ajustar la identidad del personaje.
 
-## Rasgos del personaje
+El trasfondo no concede una bonificación automática. Define conocimientos, contactos y objetos plausibles; conviértelo en una competencia solo si forma parte de la historia y la mesa acepta esa especialización.
 
-Tira 1d10 en una o varias tablas, o elige los rasgos que mejor ayuden a imaginar al personaje.
+### 3. Edad y pasado
 
-### Físico (d10)
+La edad marca la manera en que el personaje ha vivido el mundo. Un personaje joven puede tener energía, hambre de reconocimiento o errores recientes; uno mayor puede reunir experiencia, contactos y cicatrices.
 
-| d10 | Rasgo | d10 | Rasgo |
-| ---: | --- | ---: | --- |
-| 1 | Ágil | 6 | Frágil |
-| 2 | Bajo o baja | 7 | Grande |
-| 3 | Compacto o compacta | 8 | Larguirucho o larguirucha |
-| 4 | Desgarbado o desgarbada | 9 | Musculoso o musculosa |
-| 5 | Elegante | 10 | Robusto o robusta |
+Escribe una frase sobre su pasado: un deber cumplido, una traición sufrida, un aprendizaje costoso o un lugar al que nunca ha dejado de mirar. Eso da cuerpo a la historia y explica por qué ahora se mueve por ese objetivo.
 
-### Piel (d10)
+### 4. Atributos y competencias
 
-| d10 | Rasgo | d10 | Rasgo |
-| ---: | --- | ---: | --- |
-| 1 | Bronceada | 6 | Manos manchadas |
-| 2 | Cicatriz visible | 7 | Pecas |
-| 3 | Lunar distintivo | 8 | Quemadura antigua |
-| 4 | Tatuajes | 9 | Piel muy pálida |
-| 5 | Marcas de trabajo | 10 | Pintura ritual |
+Los [**atributos**](./01-creacion-personaje-atributos.md) representan la forma general de actuar del personaje: **Cuerpo**, **Mente**, **Espíritu** y **Presencia**. Cada uno tiene un peso distinto según la historia que quieras contar.
 
-### Cabello (d10)
+Las [**competencias**](./01-creacion-personaje-atributos.md) muestran cómo aplica esas capacidades en la práctica. Para cada atributo, anota al menos una competencia o especialización que explique cómo lo usa el personaje. Un personaje con mucha presencia puede ser diplomático, carismático o manipulador; uno con mucho cuerpo puede ser resistente, técnico o de combate; uno con mucha mente puede analizar, recordar o inventar soluciones; uno con mucho espíritu puede resistir el miedo, la magia o la presión emocional.
 
-| d10 | Rasgo | d10 | Rasgo |
-| ---: | --- | ---: | --- |
-| 1 | Abundante | 6 | Largo |
-| 2 | Calvo o calva | 7 | Ondulado |
-| 3 | Encrespado | 8 | Rizado |
-| 4 | Escaso | 9 | Sucio |
-| 5 | Grasiento | 10 | Trenzado |
+Elige las capacidades que encajen con la identidad del personaje, no con una “mejor build” abstracta. Si no sabes por dónde empezar, usa su trasfondo y su motivación como guía.
 
-### Rostro (d10)
+### 5. Distribución corporal
 
-| d10 | Rasgo | d10 | Rasgo |
-| ---: | --- | ---: | --- |
-| 1 | Afilado | 6 | Desfigurado |
-| 2 | Alargado | 7 | Huesudo |
-| 3 | Cincelado | 8 | Pálido |
-| 4 | Cuadrado | 9 | Perfecto |
-| 5 | De mejillas hundidas | 10 | Ratonil |
+La [**distribución corporal**](#distribucion-corporal) concreta la forma física del personaje. Aquí se reparten los puntos de cuerpo entre las distintas zonas del cuerpo: cabeza, torso, brazos, piernas, etc.
 
-### Voz (d10)
+Esto no es solo un cálculo; refleja la especialización física del personaje. Un luchador pesado tendrá más puntos en torso y brazos; un rastreador puede priorizar piernas, torso y ojos; un personaje ágil y nervioso puede dejar más recursos en brazos o cabeza según lo que necesite.
 
-| d10 | Rasgo | d10 | Rasgo |
-| ---: | --- | ---: | --- |
-| 1 | Baja | 6 | Precisa |
-| 2 | Cantarina | 7 | Rápida |
-| 3 | Cansada | 8 | Ronca |
-| 4 | Dramática | 9 | Susurrante |
-| 5 | Entrecortada | 10 | Usa refranes |
+### 6. Vida, defensa, motivación y estadísticas iniciales
 
-### Vestimenta (d10)
+Después de asignar atributos, competencias y distribución corporal, calcula [**Vida y Defensa**](#estadisticas-iniciales). Estas estadísticas expresan cuánto puede resistir y cuán difícil es alcanzarlo, pero no reemplazan la descripción de heridas, cansancio o consecuencias.
 
-| d10 | Rasgo | d10 | Rasgo |
-| ---: | --- | ---: | --- |
-| 1 | Antigua | 6 | Ensangrentada |
-| 2 | Con barro | 7 | Elegante |
-| 3 | De otro lugar | 8 | Maloliente |
-| 4 | Desalineada | 9 | Sucia |
-| 5 | Deshilachada | 10 | Uniforme |
+En este punto también conviene escribir una motivación concreta. Una buena motivación suele responder a preguntas como:
 
-### Virtud (d10)
+- ¿qué quiere proteger?
+- ¿qué quiere recuperar?
+- ¿qué miedo o culpa le empuja a actuar?
+- ¿qué está dispuesto a arriesgar?
 
-| d10 | El personaje es... | d10 | El personaje es... |
-| ---: | --- | ---: | --- |
-| 1 | Ambicioso o ambiciosa | 6 | Precavido o precavida |
-| 2 | Disciplinado o disciplinada | 7 | Sereno o serena |
-| 3 | Honorable | 8 | Sociable |
-| 4 | Humilde | 9 | Tolerante |
-| 5 | Misericordioso o misericordiosa | 10 | Valiente |
+Cuando la motivación, la identidad y las capacidades se refuerzan entre sí, el personaje se vuelve más coherente y más emocionante de jugar.
 
-### Vicio (d10)
+### 7. Equipo inicial
 
-| d10 | El personaje es... | d10 | El personaje es... |
-| ---: | --- | ---: | --- |
-| 1 | Agresivo o agresiva | 6 | Mentiroso o mentirosa |
-| 2 | Amargado o amargada | 7 | Nervioso o nerviosa |
-| 3 | Avaricioso o avariciosa | 8 | Perezoso o perezosa |
-| 4 | Codicioso o codiciosa | 9 | Rudo o ruda |
-| 5 | Engreído o engreída | 10 | Vengativo o vengativa |
+El [**equipo inicial**](./01-creacion-personaje-equipo-inicial.md) completa la ficha. No se trata solo de objetos, sino de cómo el personaje se sostiene en el mundo: herramientas útiles, armas, ropas, recursos de supervivencia y pequeños detalles que le conectan con su historia.
 
-### Reputación (d10)
+Todos los personajes empiezan con raciones para tres días, una fuente de luz, una mochila y 3d6 monedas de oro. Después, realiza las tiradas de las tablas de [equipo inicial](./01-creacion-personaje-equipo-inicial.md) o elige los resultados. Escoge un solo objeto por cada resultado y comprueba sus espacios, protección y daño en el [listado de equipo](./05-equipo.md).
 
-| d10 | Se dice que el personaje es... | d10 | Se dice que el personaje es... |
-| ---: | --- | ---: | --- |
-| 1 | Ambicioso o ambiciosa | 6 | Honrado u honrada |
-| 2 | Un bicho raro | 7 | Un patán |
-| 3 | Desagradable | 8 | Peligroso o peligrosa |
-| 4 | Divertido o divertida | 9 | Respetado o respetada |
-| 5 | Holgazán o holgazana | 10 | Sabio o sabia |
+Elige un equipo que apoye lo que ya has decidido: un explorador lleva material de viaje; un erudito lleva cuadernos, herramientas o reliquias; un soldado necesita respaldo práctico y opciones de combate; un personaje social puede priorizar objetos de prestigio o simbólicos. Si una tabla concede una opción adicional, vuelve a tirar en la tabla indicada en lugar de añadir un objeto indefinido.
 
-### Desgracia (d10)
-
-| d10 | El personaje es o está... | d10 | El personaje es o está... |
-| ---: | --- | ---: | --- |
-| 1 | Abandonado o abandonada | 6 | Degradado o degradada |
-| 2 | Adicto o adicta | 7 | Desheredado o desheredada |
-| 3 | Chantajeado o chantajeada | 8 | Desacreditado o desacreditada |
-| 4 | Condenado o condenada | 9 | Exiliado o exiliada |
-| 5 | Defraudado o defraudada | 10 | Maldito o maldita |
-
-## Edad
-
-Tira 2d20 y suma 10. El resultado orienta la edad del personaje, pero no impone un límite biológico. Una edad avanzada puede justificar experiencia; una edad temprana puede justificar contactos, talentos o deudas heredadas.
-
-| 2d20 + 10 | Edad orientativa |
-| ---: | --- |
-| 12-20 | Adolescente o adulto joven |
-| 21-30 | Adulto |
-| 31-40 | Adulto experimentado |
-| 41-50 | Persona anciana o excepcionalmente longeva |
+Una ficha queda lista cuando tiene identidad, capacidad, motivación y herramientas suficientes para entrar en la aventura.
 
 ## Atributos y competencias
 
@@ -258,32 +140,14 @@ Se recomienda comenzar en nivel 1 con:
 | 11 | 13 |
 | 12 | 14 |
 
-## Perfil básico del personaje
+## Tabla resumida de desarrollo
 
-Un personaje se suele definir con:
-
-- nombre
-- trasfondo
-- aspecto físico
-- origen o procedencia
-- motivación principal
-- relación con el mundo
-- equipo inicial
-- habilidades principales
-
-La parte estadística no reemplaza la identidad del personaje; la identidad da sentido a las tiradas.
-
-## Creación rápida
-
-Un método breve para empezar una partida:
-
-1. Define nombre, trasfondo y concepto.
-2. Asigna puntos de desarrollo iniciales al atributo que mejor encaje con el concepto.
-3. Elige una o dos competencias relevantes.
-4. Define 2 o 3 habilidades clave con su zona corporal vinculada.
-5. Asigna puntos corporales en las zonas del cuerpo según la especialización física.
-6. Establece Defensa, equipo y estilo de combate.
-7. Calcula la Vida según Cuerpo y el desarrollo del Torso.
+| Atributo | Efecto al subir +1 | Requisito o recomendación |
+| --- | --- | --- |
+| Cuerpo +1 | +2 puntos corporales | Sueles repartirlos entre zonas y especializaciones físico-mecánicas |
+| Mente +1 | Mejora análisis, conocimiento y percepción intelectual | Ideal para magos, investigadores, técnicos |
+| Espíritu +1 | Mejora resistencia espiritual y control sobrenatural | Ideal para místicos, líderes espirituales |
+| Presencia +1 | +1 punto de competencia social | Ideal para diplomáticos, líderes y manipuladores |
 
 ## Distribución corporal
 
@@ -302,7 +166,7 @@ Calcula estas estadísticas después de asignar los atributos, competencias y pu
 | Ataque | 1d20 + atributo apropiado + competencia |
 | Salvación | 1d20 + atributo apropiado + competencia |
 
-La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6-7 y +8 con 8 o más.
+La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6-7 y +8 con 8 o más. Calcula primero la Vida y la Defensa base, y añade después las bonificaciones del equipo y las características que correspondan.
 
 La Vida representa la capacidad del personaje para seguir actuando. La Defensa representa lo difícil que es alcanzarle. Ninguna de las dos sustituye a la descripción de la herida, el cansancio o las consecuencias que determine la ficción.
 
@@ -314,15 +178,189 @@ Consulta [Equipo inicial](./01-creacion-personaje-equipo-inicial.md) para comple
 
 ---
 
-## Tabla resumida de desarrollo
-
-| Atributo | Efecto al subir +1 | Requisito o recomendación |
-| --- | --- | --- |
-| Cuerpo +1 | +2 puntos corporales | Sueles repartirlos entre zonas y especializaciones físico-mecánicas |
-| Mente +1 | Mejora análisis, conocimiento y percepción intelectual | Ideal para magos, investigadores, técnicos |
-| Espíritu +1 | Mejora resistencia espiritual y control sobrenatural | Ideal para místicos, líderes espirituales |
-| Presencia +1 | +1 punto de competencia social | Ideal para diplomáticos, líderes y manipuladores |
-
 Para pasar a las reglas de resolución, consulta [Reglas](./03-reglas.md).
+
+## Tablas de identidad
+
+Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar los dados, elegir un resultado o combinar ambos métodos. Cuando un resultado no encaje con el concepto del personaje, conviértelo en una pregunta para la ficción en lugar de descartarlo sin más.
+
+### Nombre y trasfondo
+
+#### Nombres femeninos (d20)
+
+| d20 | Nombre | d20 | Nombre |
+| ---: | --- | ---: | --- |
+| 1 | Agune | 11 | Lirann |
+| 2 | Beatrice | 12 | Lirathil |
+| 3 | Breagan | 13 | Lisabeth |
+| 4 | Bronwyn | 14 | Moralil |
+| 5 | Cannora | 15 | Morgwen |
+| 6 | Drelil | 16 | Sybil |
+| 7 | Elgile | 17 | Theune |
+| 8 | Esme | 18 | Wenain |
+| 9 | Griya | 19 | Ygwal |
+| 10 | Henaine | 20 | Yslen |
+
+#### Nombres masculinos (d20)
+
+| d20 | Nombre | d20 | Nombre |
+| ---: | --- | ---: | --- |
+| 1 | Arwel | 11 | Grinwit |
+| 2 | Bevan | 12 | Gruwid |
+| 3 | Boroth | 13 | Gruwth |
+| 4 | Borrid | 14 | Gwestin |
+| 5 | Breagle | 15 | Mannog |
+| 6 | Breglor | 16 | Melnax |
+| 7 | Canhoreal | 17 | Orthax |
+| 8 | Emrys | 18 | Triunein |
+| 9 | Ethex | 19 | Wenlan |
+| 10 | Gringle | 20 | Yirmeor |
+
+#### Apellido, apodo o casa (d20)
+
+| d20 | Resultado | d20 | Resultado |
+| ---: | --- | ---: | --- |
+| 1 | Barroviejo | 11 | Piedraluna |
+| 2 | Brumaclara | 12 | Rastroverde |
+| 3 | Caldero | 13 | Salmuera |
+| 4 | Cenicero | 14 | Sombracorta |
+| 5 | Cuervonal | 15 | Tormenta |
+| 6 | Dientedehierro | 16 | Tresnudos |
+| 7 | Escarchado | 17 | Vadoalto |
+| 8 | Fuenteciega | 18 | Valgrís |
+| 9 | Hojamala | 19 | Velaparda |
+| 10 | Lanzaquieta | 20 | Zarzablanca |
+
+#### Trasfondo (d20)
+
+| d20 | Trasfondo | d20 | Trasfondo |
+| ---: | --- | ---: | --- |
+| 1 | Aprendiz de alquimia | 11 | Guardabosques |
+| 2 | Artesana o artesano | 12 | Herbolaria o herbolario |
+| 3 | Carterista | 13 | Jornalera o jornalero |
+| 4 | Cazadora o cazador | 14 | Marinera o marinero |
+| 5 | Curandera o curandero | 15 | Mercader |
+| 6 | Exiliada o exiliado | 16 | Minera o minero |
+| 7 | Exploradora o explorador | 17 | Peregrina o peregrino |
+| 8 | Granuja de ciudad | 18 | Soldada o soldado |
+| 9 | Guía de caminos | 19 | Testigo de lo oculto |
+| 10 | Herrera o herrero | 20 | Contrabandista |
+
+El trasfondo sugiere conocimientos, contactos y herramientas, pero no concede una bonificación automática.
+
+### Rasgos del personaje
+
+Tira 1d10 en una o varias tablas, o elige los rasgos que mejor ayuden a imaginar al personaje.
+
+#### Físico (d10)
+
+| d10 | Rasgo | d10 | Rasgo |
+| ---: | --- | ---: | --- |
+| 1 | Ágil | 6 | Frágil |
+| 2 | Bajo o baja | 7 | Grande |
+| 3 | Compacto o compacta | 8 | Larguirucho o larguirucha |
+| 4 | Desgarbado o desgarbada | 9 | Musculoso o musculosa |
+| 5 | Elegante | 10 | Robusto o robusta |
+
+#### Piel (d10)
+
+| d10 | Rasgo | d10 | Rasgo |
+| ---: | --- | ---: | --- |
+| 1 | Bronceada | 6 | Manos manchadas |
+| 2 | Cicatriz visible | 7 | Pecas |
+| 3 | Lunar distintivo | 8 | Quemadura antigua |
+| 4 | Tatuajes | 9 | Piel muy pálida |
+| 5 | Marcas de trabajo | 10 | Pintura ritual |
+
+#### Cabello (d10)
+
+| d10 | Rasgo | d10 | Rasgo |
+| ---: | --- | ---: | --- |
+| 1 | Abundante | 6 | Largo |
+| 2 | Calvo o calva | 7 | Ondulado |
+| 3 | Encrespado | 8 | Rizado |
+| 4 | Escaso | 9 | Sucio |
+| 5 | Grasiento | 10 | Trenzado |
+
+#### Rostro (d10)
+
+| d10 | Rasgo | d10 | Rasgo |
+| ---: | --- | ---: | --- |
+| 1 | Afilado | 6 | Desfigurado |
+| 2 | Alargado | 7 | Huesudo |
+| 3 | Cincelado | 8 | Pálido |
+| 4 | Cuadrado | 9 | Perfecto |
+| 5 | De mejillas hundidas | 10 | Ratonil |
+
+#### Voz (d10)
+
+| d10 | Rasgo | d10 | Rasgo |
+| ---: | --- | ---: | --- |
+| 1 | Baja | 6 | Precisa |
+| 2 | Cantarina | 7 | Rápida |
+| 3 | Cansada | 8 | Ronca |
+| 4 | Dramática | 9 | Susurrante |
+| 5 | Entrecortada | 10 | Usa refranes |
+
+#### Vestimenta (d10)
+
+| d10 | Rasgo | d10 | Rasgo |
+| ---: | --- | ---: | --- |
+| 1 | Antigua | 6 | Ensangrentada |
+| 2 | Con barro | 7 | Elegante |
+| 3 | De otro lugar | 8 | Maloliente |
+| 4 | Desalineada | 9 | Sucia |
+| 5 | Deshilachada | 10 | Uniforme |
+
+#### Virtud (d10)
+
+| d10 | El personaje es... | d10 | El personaje es... |
+| ---: | --- | ---: | --- |
+| 1 | Ambicioso o ambiciosa | 6 | Precavido o precavida |
+| 2 | Disciplinado o disciplinada | 7 | Sereno o serena |
+| 3 | Honorable | 8 | Sociable |
+| 4 | Humilde | 9 | Tolerante |
+| 5 | Misericordioso o misericordiosa | 10 | Valiente |
+
+#### Vicio (d10)
+
+| d10 | El personaje es... | d10 | El personaje es... |
+| ---: | --- | ---: | --- |
+| 1 | Agresivo o agresiva | 6 | Mentiroso o mentirosa |
+| 2 | Amargado o amargada | 7 | Nervioso o nerviosa |
+| 3 | Avaricioso o avariciosa | 8 | Perezoso o perezosa |
+| 4 | Codicioso o codiciosa | 9 | Rudo o ruda |
+| 5 | Engreído o engreída | 10 | Vengativo o vengativa |
+
+#### Reputación (d10)
+
+| d10 | Se dice que el personaje es... | d10 | Se dice que el personaje es... |
+| ---: | --- | ---: | --- |
+| 1 | Ambicioso o ambiciosa | 6 | Honrado u honrada |
+| 2 | Un bicho raro | 7 | Un patán |
+| 3 | Desagradable | 8 | Peligroso o peligrosa |
+| 4 | Divertido o divertida | 9 | Respetado o respetada |
+| 5 | Holgazán o holgazana | 10 | Sabio o sabia |
+
+#### Desgracia (d10)
+
+| d10 | El personaje es o está... | d10 | El personaje es o está... |
+| ---: | --- | ---: | --- |
+| 1 | Abandonado o abandonada | 6 | Degradado o degradada |
+| 2 | Adicto o adicta | 7 | Desheredado o desheredada |
+| 3 | Chantajeado o chantajeada | 8 | Desacreditado o desacreditada |
+| 4 | Condenado o condenada | 9 | Exiliado o exiliada |
+| 5 | Defraudado o defraudada | 10 | Maldito o maldita |
+
+### Edad (2d20 + 10)
+
+Tira 2d20 y suma 10. El resultado orienta la edad del personaje, pero no impone un límite biológico.
+
+| Resultado | Edad orientativa |
+| ---: | --- |
+| 12-20 | Adolescente o adulto joven |
+| 21-30 | Adulto |
+| 31-40 | Adulto experimentado |
+| 41-50 | Persona anciana o excepcionalmente longeva |
 
 [regresar al contenido](#sumario)
