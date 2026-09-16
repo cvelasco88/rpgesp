@@ -16,7 +16,8 @@ layout: default
 - [Dificultad y diferencia de nivel](#dificultad-y-diferencia-de-nivel)
 - [Daño y peligro](#danio-y-peligro)
 - [Curación](#curacion)
-- [Inventario y fatiga](#inventario-y-fatiga)
+- [Fatiga](#fatiga)
+- [Inventario](#inventario)
 - [Armadura](#armadura)
 - [Personajes no jugadores](#personajes-no-jugadores)
 - [Riqueza y tesoro](#riqueza-y-tesoro)
@@ -204,26 +205,40 @@ El sistema permite que el daño esté vinculado a la capacidad concreta del pers
 
 Si un efecto no causa daño numérico, aplica directamente su consecuencia: derribo, desarme, miedo, pérdida de una acción, separación del grupo u otra condición que encaje con la ficción. La Vida no sustituye a las heridas ni hace irrelevante una situación peligrosa.
 
-## Inventario y fatiga
+## Curación
 
-El inventario indica lo que se puede llevar sin penalizarse. La regla completa de espacios está en [Equipo inicial](./01-creacion-personaje-equipo-inicial.md). Si se llena, el personaje queda sobrecargado y el guardián puede exigir una decisión: dejar algo atrás, usar transporte o aceptar una consecuencia.
+Un descanso breve, agua y unos minutos sin presión permiten recuperar parte de la Vida perdida cuando la ficción lo permite. El guardián puede negar esta recuperación si el personaje sigue expuesto, gravemente herido o en peligro inmediato.
 
-La **fatiga** representa desgaste físico, mental o espiritual. Cada punto de fatiga ocupa un espacio de inventario y permanece hasta que el personaje descansa una noche completa en un lugar seguro. La fatiga puede proceder de:
+Una noche completa de descanso seguro permite recuperar la Vida que corresponda a la atención recibida y elimina toda la fatiga acumulada. Una herida grave, una consecuencia especial o una zona corporal dañada puede requerir un sanador, una semana de reposo o un tratamiento específico. La curación mágica y los servicios expertos pueden tener un coste, una deuda o una condición.
+
+Recuperar Vida no elimina automáticamente una herida, una deuda, una condición ni una consecuencia narrativa. Esas partes de la ficción deben resolverse mediante cuidados, tiempo, recursos o decisiones durante la partida.
+
+## Fatiga
+
+La **fatiga** representa desgaste físico, mental o espiritual. Es una condición del personaje, no una categoría de equipo ni una penalización fija a todas sus tiradas.
+
+Puede aparecer por:
 
 - no comer, beber o dormir lo suficiente
 - viajar o esforzarse durante demasiado tiempo
 - lanzar un poder que indique ese coste
 - sufrir una condición o consecuencia de la ficción
 
-Mientras tenga fatiga, el personaje puede actuar, pero su carga y sus recursos son más limitados. Si la fatiga llena el inventario, queda exhausto: no puede recuperar Vida ni eliminar fatiga hasta satisfacer sus necesidades básicas y descansar en condiciones seguras.
+Cada punto de fatiga se registra en un espacio de inventario. Esto no significa que la fatiga sea un objeto: el espacio sirve para mostrar que reduce la capacidad de transporte y los recursos disponibles. La fatiga permanece hasta que el personaje descansa una noche completa en un lugar seguro.
 
-## Curación
+Si la fatiga ocupa todos los espacios disponibles, el personaje queda exhausto. Mientras esté exhausto, no puede recuperar Vida ni eliminar fatiga hasta satisfacer sus necesidades básicas y descansar en condiciones seguras.
 
-Un descanso breve, agua y unos minutos sin presión permiten recuperar parte de la Vida perdida cuando la ficción lo permite. El guardián puede negar esta recuperación si el personaje sigue expuesto, gravemente herido o en peligro inmediato.
+La fatiga no desaparece por recuperar Vida durante un descanso breve. Consulta [Curación](#curacion) para distinguir entre recuperar Vida, tratar heridas y eliminar fatiga.
 
-Una noche de descanso seguro permite recuperar la Vida que corresponda a la atención recibida y eliminar la fatiga que pueda recuperarse de ese modo. Una herida grave, una consecuencia especial o una zona corporal dañada puede requerir un sanador, una semana de reposo o un tratamiento específico. La curación mágica y los servicios expertos pueden tener un coste, una deuda o una condición.
+## Inventario
 
-Recuperar Vida no elimina automáticamente una herida, una deuda, una condición ni una consecuencia narrativa. Esas partes de la ficción deben resolverse mediante cuidados, tiempo, recursos o decisiones durante la partida.
+El inventario representa lo que el personaje puede llevar y usar durante la aventura. Su capacidad inicial es de 10 espacios: seis en la mochila, uno en cada mano y dos espacios superiores, que pueden corresponder al cinturón, el pecho o la cabeza. Consulta [Equipo inicial](./01-creacion-personaje-equipo-inicial.md) para la regla completa.
+
+Cada objeto ocupa un espacio, salvo que se indique lo contrario. Los objetos pequeños pueden agruparse y los objetos voluminosos ocupan dos espacios. Una carreta, un caballo o una mula aumentan la capacidad según el [listado de equipo](./05-equipo.md).
+
+Cuando todos los espacios están ocupados, el personaje queda sobrecargado. El guardián puede reducir su movilidad, impedirle actuar con normalidad o exigir que deje algo atrás. Si intenta transportar todavía más, debe usar un vehículo o animal, contratar a un seguidor o aceptar una consecuencia acordada.
+
+La sobrecarga y la fatiga se relacionan porque ambas pueden ocupar espacios, pero no son la misma regla: la sobrecarga depende de los objetos transportados; la fatiga depende del desgaste sufrido.
 
 ## Armadura
 
