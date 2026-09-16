@@ -6,59 +6,59 @@ layout: default
 
 [Volver](../)
 
-## Introducción
+## Información
 
-El guardián no solo resuelve pruebas y describe escenarios. También establece la tensión, la amenaza, la lógica del mundo y el ritmo de la aventura.
+- Proporciona información útil acerca del mundo conforme los personajes lo exploran.
+- Las jugadoras no necesitan hacer tiradas para obtener información sobre las circunstancias en las que se encuentran.
+- Cuando las jugadoras te pregunten, responde de forma útil y directa.
+- Responde con sinceridad a las jugadoras, describe constantemente y hazles saber que pueden seguir haciendo preguntas.
 
-Su trabajo consiste en mantener la historia clara, la dificultad comprensible y la partida emocionante sin caer ni en la arbitrariedad ni en la pasividad.
+## Dificultad
 
-## Sumario
+- Utiliza el contexto y el realismo, en vez de los números y las mecánicas.
+- Si algo que las jugadoras quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
+- ¿Es creíble lo que la jugadora describe y cómo aprovecha la situación? Deja que ocurra.
+- Las tiradas de salvación cubren un amplio abanico de situaciones y suelen ser todo lo que se necesita para lidiar con los peligros.
 
-- [Neutralidad](#neutralidad)
-- [La ficción va primero](#la-ficcion-va-primero)
-- [Peligro y consecuencia](#peligro-y-consecuencia)
-- [Preparación y escucha](#preparacion-y-escucha)
-- [Decisiones justas](#decisiones-justas)
+## Preparación
 
----
+- El mundo del juego es orgánico, maleable y aleatorio. Suele intuirse, pero a veces da giros bruscos.
+- Para desarrollar situaciones, utiliza tablas y generadores aleatorios, no tramas ni historias predefinidas.
+- Los PNJ siempre recuerdan lo que los PJ dicen o hacen y cómo afectan al mundo.
+- Los PNJ no desean morir. Haz que sus personalidades incluyan su motivación y voluntad de vivir.
 
-## Neutralidad
+## Enfocado en la narrativa
 
-El papel del guardián es describir el mundo, los obstáculos, los personajes no jugadores y la historia con claridad. Debe arbitrar de forma justa, constante y transparente.
+- Lo verdaderamente importante es la experiencia de juego que se desarrolle, no los números ni las características de los personajes.
+- Ofrece a las jugadoras instructores de armas o misiones personales que faciliten la mejora y especialización de su personaje.
+- Presta atención a las necesidades y deseos de las jugadoras, luego pon en su camino oportunidades realistas.
+- Una daga en la garganta te matará, independientemente de lo cara que sea tu armadura o de tu impresionante entrenamiento.
 
-No se trata de imponer una interpretación rígida, sino de ofrecer una resolución razonable que respete la lógica del universo y la intención de las jugadoras.
+## Peligro
 
-## La ficción va primero
+- En el mundo del juego, los PJ siempre corren el riesgo de conocer el dolor y la muerte.
+- Avisa a las jugadoras cuando se presente un peligro serio. Cuanto más peligroso, más obvio.
+- Pon trampas a la vista y deja que las jugadoras se tomen su tiempo buscando una solución.
+- Ofrece a las jugadoras oportunidades para resolver problemas e interactuar con el mundo.
 
-Los dados no sustituyen la narrativa. Cuando una acción es posible, el resultado debe decidirse en función de la situación, la intención del personaje y la lógica del mundo.
+## Tesoro
 
-Esto significa que la tirada es una herramienta, no una ley absoluta: la historia siempre debe tener prioridad sobre la mecánica.
+- El tesoro es específico al lugar donde se encuentra. Un tesoro siempre cuenta su propia historia.
+- El tesoro es muy valioso, casi siempre voluminoso y rara vez es útil más allá de su valor y fama.
+- Las reliquias no son tesoros, aunque son útiles e interesantes.
+- Utiliza el tesoro como señuelo para que los personajes vayan a lugares exóticos bajo el dominio de temibles enemigos.
 
-## Peligro y consecuencia
+## Dar opciones
 
-El mundo debe parecer vivo, hostil y con consecuencias reales. Las decisiones tienen peso. El guardián debe presentar amenazas con una lógica clara, para que las jugadoras comprendan qué están arriesgando.
+- Cuando la situación se estanque, ofrece a las jugadoras una opción interesante que les obligue a tomar una decisión.
+- Cuando las intenciones de las jugadoras no estén claras, utiliza preguntas con respuestas binarias: “Entonces, ¿A o B?”.
+- Participad todas en este método de conversación para mantener el juego en movimiento.
+- Asegúrate de que las acciones de los PJ dejan huella en el mundo.
 
-La tensión no viene de la crueldad, sino de la posibilidad real de perder algo importante.
+## El dado del destino
 
-## Preparación y escucha
+- De vez en cuando querrás determinar al azar un elemento de tu partida, como el clima o un saber único de un personaje.
+- En esas situaciones, tira 1d6. Un resultado de 4 o más suele favorecer a las jugadoras.
+- Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
 
-Un buen guardián prepara escenarios, amenazas y situaciones, pero también escucha lo que las jugadoras proponen. La improvisación es una herramienta poderosa si mantiene la coherencia de la ficción.
-
-Cuando una idea de la mesa encaja con el mundo, debe ser capaz de ampliarla en lugar de bloquearla por pura regla.
-
-## Decisiones justas
-
-Las jugadoras deben entender siempre por qué una acción tiene éxito o fracaso. Si una decisión implica riesgo, el guardián debe ser capaz de comunicarlo con claridad.
-
-Las dificultades no tienen por qué ser perfectas en cada momento, pero sí deben ser comprensibles, coherentes y justificables.
-
----
-
-## Resumen rápido
-
-- La responsabilidad del guardián es mantener el mundo claro y consistente.
-- La ficción debe preceder a la tirada.
-- El peligro debe tener consecuencias reales y legibles.
-- Las decisiones del grupo deben ser escuchadas y respondidas con coherencia.
-
-Para seguir con la documentación, consulta [Principios del sistema](./00-principios.md) o avanza a la [Creación del personaje](./01-creacion-personaje.md).
+Para seguir con la documentación, consulta [Principios del sistema](./00-principios.md) o revisa la [Creación del personaje](./01-creacion-personaje.md).
