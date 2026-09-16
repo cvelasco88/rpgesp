@@ -17,9 +17,10 @@ Los contenidos deben quedar repartidos por páginas temáticas:
 - Principios del guardián
 - Principios de los jugadores
 - Creación del personaje
-- Atributos y clases
-- Reglas base
+- Atributos y especializaciones
+- Reglas
 - Sistema corporal
+- Equipo
 - Equipo inicial
 - Bestiario
 - Magia y poderes

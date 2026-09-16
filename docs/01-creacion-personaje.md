@@ -13,12 +13,12 @@ layout: default
 - [Rasgos del personaje](#rasgos-del-personaje)
 - [Edad](#edad)
 - [Puntos de desarrollo por nivel](#puntos-de-desarrollo-por-nivel)
-- [Atributos principales](#atributos-principales)
-- [Competencias y especializaciones](#competencias-y-especializaciones)
-- [Zonas corporales iniciales](#zonas-corporales-iniciales)
+- [Atributos y competencias](#atributos-y-competencias)
+- [Distribución corporal](#distribucion-corporal)
 - [Estadísticas iniciales](#estadisticas-iniciales)
 - [Perfil básico del personaje](#perfil-basico-del-personaje)
-- [Equipo inicial](./01-creacion-personaje-equipo.md)
+- [Atributos y especializaciones](./01-creacion-personaje-atributos.md)
+- [Equipo inicial](./01-creacion-personaje-equipo-inicial.md)
 - [Perfiles y clases predefinidas](./01-creacion-personaje-perfiles.md)
 - [Creación rápida](#creacion-rapida)
 
@@ -239,39 +239,11 @@ Se recomienda comenzar en nivel 1 con:
 | 11 | 13 |
 | 12 | 14 |
 
-## Atributos principales
+## Atributos y competencias
 
-Cada personaje se define por cuatro atributos generales:
+Elige los atributos que expresen la forma principal de actuar del personaje y desarrolla las competencias que encajen con su historia. Los atributos no son clases: describen capacidades y dejan que la ficción determine cómo se aplican.
 
-| Atributo | Descripción | Uso principal |
-| --- | --- | --- |
-| Cuerpo | Fuerza, resistencia, coordinación y vigor físico | Ataques físicos, atletismo, contención, resistencia |
-| Mente | Conocimiento, razonamiento y atención intelectual | Investigación, magia, lógica, percepción, análisis |
-| Espíritu | Voluntad, fe, conexión sobrenatural, resistencia espiritual | Poderes, resistencias mentales, fe y rituales |
-| Presencia | Autoridad, personalidad, carisma y fuerza social | Persuasión, intimidación, mando, manipulación |
-
-### Puntuaciones de los atributos
-
-Comienza con 3 puntos en cada atributo y reparte 3 puntos de desarrollo iniciales entre ellos. Ningún atributo puede superar 5 durante la creación sin una justificación especial del guardián.
-
-También puedes crear un personaje aleatorio tirando 1d6 para cada atributo y usando el resultado como su puntuación, reduciéndolo a 5 si fuera necesario. Después, reparte 2 puntos entre dos atributos distintos. Este método es opcional y sirve para personajes que quieran descubrir su concepto durante la creación.
-
-Elige primero el atributo que expresa la forma principal de actuar del personaje. Los atributos no son clases: describen capacidades y dejan que la ficción determine cómo se aplican.
-
-## Competencias y especializaciones
-
-Cada atributo puede desarrollarse en competencias o especializaciones.
-
-Ejemplos de competencias:
-
-- Cuerpo: Atletismo, Acrobacia, Fuerza, Resistencia
-- Mente: Investigación, Arcano, Medicina, Historia, Tecnología
-- Espíritu: Voluntad, Fe, Ocultismo, Sanación espiritual
-- Presencia: Persuasión, Engaño, Intimidación, Liderazgo, Actuación
-
-Cuando un personaje intenta una acción con posibilidades reales de fallar, la regla básica es:
-
-> 1d20 + atributo + competencia
+Consulta [Atributos y especializaciones](./01-creacion-personaje-atributos.md) para las puntuaciones, competencias, dotes y características defensivas.
 
 ## Perfil básico del personaje
 
@@ -300,20 +272,11 @@ Un método breve para empezar una partida:
 6. Establece Defensa, equipo y estilo de combate.
 7. Calcula la Vida según Cuerpo y el desarrollo del Torso.
 
-## Zonas corporales iniciales
+## Distribución corporal
 
-Cuerpo concede 2 puntos corporales por cada punto de atributo. Reparte esos puntos entre las diez zonas. No es obligatorio repartirlos de forma equilibrada.
+Reparte los puntos corporales concedidos por Cuerpo entre las diez zonas. No es obligatorio hacerlo de forma equilibrada; la distribución debe expresar la especialización física del personaje.
 
-| Zona | Función principal |
-| --- | --- |
-| Cabeza | Precisión, concentración y percepción |
-| Torso | Vida, resistencia y protección |
-| Brazos | Alcance, control y cantidad |
-| Puños | Potencia e impacto |
-| Piernas | Movimiento, salto y estabilidad |
-| Pies | Equilibrio, posición y Esquiva |
-
-Las zonas con lado derecho e izquierdo pueden cumplir requisitos separados. Por ejemplo, `Pie derecho 2 + Pie izquierdo 2` permite obtener Pies ligeros.
+Consulta [Sistema corporal](./03-reglas-sistema-corporal.md) para las zonas, sus funciones y la forma de potenciar habilidades.
 
 ## Estadísticas iniciales
 
@@ -332,9 +295,9 @@ La Vida representa la capacidad del personaje para seguir actuando. La Defensa r
 
 ## Equipo inicial
 
-El equipo inicial es una subpágina de esta sección. Allí encontrarás el inventario, las tablas de generación d20/d100, el listado de precios y las reglas de carga.
+El equipo inicial es una subpágina de esta sección. Allí encontrarás el inventario y las tablas de generación d20/d100.
 
-Consulta [Equipo inicial](./01-creacion-personaje-equipo.md) para completar el personaje.
+Consulta [Equipo inicial](./01-creacion-personaje-equipo-inicial.md) para completar el personaje.
 
 ---
 
@@ -347,6 +310,6 @@ Consulta [Equipo inicial](./01-creacion-personaje-equipo.md) para completar el p
 | Espíritu +1 | Mejora resistencia espiritual y control sobrenatural | Ideal para místicos, líderes espirituales |
 | Presencia +1 | +1 punto de competencia social | Ideal para diplomáticos, líderes y manipuladores |
 
-Para pasar a las reglas de resolución, consulta [Reglas base](./03-reglas-base.md).
+Para pasar a las reglas de resolución, consulta [Reglas](./03-reglas.md).
 
 [regresar al contenido](#sumario)

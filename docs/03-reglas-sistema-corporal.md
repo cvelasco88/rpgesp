@@ -191,4 +191,4 @@ Requisito: Pie derecho 2 + Pie izquierdo 2.
 
 Efecto: obtienes la reacción Esquiva, que permite evitar un ataque concreto cuando la ficción lo permite. Esquiva no aumenta la Defensa fija.
 
-Para ver ejemplos más amplios de uso en partida, revisa [Casos prácticos](./99-casos-practicos.md).
+Para ver ejemplos más amplios de uso en partida, revisa [Casos prácticos](./03-reglas-casos-practicos.md).

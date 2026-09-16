@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Reglas base
+# Reglas
 
 [Volver](../)
 
@@ -15,6 +15,7 @@ layout: default
 - [Dificultad y diferencia de nivel](#dificultad-y-diferencia-de-nivel)
 - [Daño y peligro](#danio-y-peligro)
 - [Inventario y fatiga](#inventario-y-fatiga)
+- [Casos prácticos](./03-reglas-casos-practicos.md)
 
 ---
 
@@ -186,4 +187,4 @@ La fatiga representa desgaste físico, mental o espiritual. Si se acumula demasi
 - Las reacciones como Esquiva se obtienen mediante habilidades concretas.
 - Los peligros deben tener consecuencias entendibles.
 
-Para continuar, revisa el sistema corporal en [Sistema corporal](./04-sistema-corporal.md).
+Para continuar, revisa el sistema corporal en [Sistema corporal](./03-reglas-sistema-corporal.md).

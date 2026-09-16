@@ -74,6 +74,8 @@ La bonificación de Torso es +0 con 0-1 puntos, +2 con 2-3, +4 con 4-5, +6 con 6
 - Las zonas potencian habilidades concretas.
 - Una habilidad puede usar como máximo dos zonas para potenciarse.
 
+Para el desarrollo completo, consulta [Sistema corporal](./03-reglas-sistema-corporal.md).
+
 ## Poderes
 
 - Un poder debe definir atributo, requisito, coste y consecuencia de fallo.

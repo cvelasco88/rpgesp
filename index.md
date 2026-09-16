@@ -13,18 +13,13 @@ La intención del sistema es ofrecer una estructura clara, rápida y brutalmente
 ## Contenido
 
 - [Sumario](#sumario)
-- [Principios del sistema](./docs/00-principios.md)
 - [Principios del guardián](./docs/00-principios-guardian.md)
 - [Principios de los jugadores](./docs/00-principios-jugadores.md)
 - [Creación del personaje](./docs/01-creacion-personaje.md)
-- [Atributos, tablas y especializaciones](./docs/02-atributos-y-clases.md)
-- [Reglas base](./docs/03-reglas-base.md)
-- [Sistema corporal](./docs/04-sistema-corporal.md)
-- [Equipo inicial](./docs/01-creacion-personaje-equipo.md)
+- [Equipo](./docs/05-equipo.md)
+- [Reglas](./docs/03-reglas.md)
 - [Bestiario](./docs/06-bestiario.md)
 - [Magia y poderes](./docs/07-magia-y-poderes.md)
-- [Perfiles y clases predefinidas](./docs/01-creacion-personaje-perfiles.md)
-- [Casos prácticos](./docs/99-casos-practicos.md)
 - [Resumen de reglas](./docs/99-resumen-de-reglas.md)
 
 ## Sumario
@@ -43,7 +38,7 @@ Para ver la formulación completa de estas ideas, consulta:
 
 1. Lee los [principios del sistema](./docs/00-principios.md).
 2. Crea el personaje con la [creación de personaje](./docs/01-creacion-personaje.md).
-3. Consulta [reglas base](./docs/03-reglas-base.md) durante la partida.
+3. Consulta [reglas](./docs/03-reglas.md) durante la partida.
 4. Usa el [resumen de reglas](./docs/99-resumen-de-reglas.md) como referencia rápida.
 
 Esta portada funciona como mapa general del documento de referencia. Las reglas completas, las tablas y los ejemplos se encuentran en el resto de páginas para que puedan consultarse y editarse por separado sin duplicar contenido.

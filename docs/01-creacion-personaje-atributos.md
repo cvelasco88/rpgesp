@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Atributos, tablas y especializaciones
+# Atributos y especializaciones
 
 [Volver](../)
 
@@ -12,7 +12,6 @@ layout: default
 - [Tablas de atributo y especialización](#tablas-de-atributo-y-especializacion)
 - [Competencias sociales](#competencias-sociales)
 - [Dotes y características](#dotes-y-caracteristicas)
-- [Perfil de ejemplo](#perfil-de-ejemplo)
 
 ---
 
@@ -105,14 +104,6 @@ Las características defensivas dan herramientas concretas sin convertir cada at
 
 **Esquiva** permite evitar un ataque concreto cuando la ficción lo permite. No aumenta automáticamente la Defensa.
 
-## Perfil de ejemplo
-
-| Nombre | Concepto | Atributos | Especialización |
-| --- | --- | --- | --- |
-| Alaric | Guardia veterano | Cuerpo 4, Mente 2, Espíritu 2, Presencia 2 | Protección, combate cuerpo a cuerpo |
-| Yra | Investigadora arcana | Cuerpo 1, Mente 4, Espíritu 2, Presencia 3 | Investigación, magia y análisis |
-| Sera | Líder de la hueste | Cuerpo 2, Mente 2, Espíritu 3, Presencia 4 | Persuasión, mando y moral |
-
 ---
 
 ## Regla práctica
@@ -123,4 +114,4 @@ Para mantener el sistema equilibrado, conviene fijar un marco de referencia al c
 - los personajes muy especializados deben tener un coste en otras áreas
 - cada habilidad debe explicitar qué la activa y qué la potencia
 
-Para más detalle sobre reglas de tirada, consulta [Reglas base](./03-reglas-base.md).
+Para más detalle sobre reglas de tirada, consulta [Reglas](./03-reglas.md).
