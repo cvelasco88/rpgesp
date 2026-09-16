@@ -9,12 +9,17 @@ layout: default
 ## Sumario
 
 - [Resolución de acciones](#resolucion-de-acciones)
+- [Atributos](#atributos)
 - [Tiradas](#tiradas)
 - [Defensa](#defensa)
 - [Salvaciones](#salvaciones)
 - [Dificultad y diferencia de nivel](#dificultad-y-diferencia-de-nivel)
 - [Daño y peligro](#danio-y-peligro)
+- [Curación](#curacion)
 - [Inventario y fatiga](#inventario-y-fatiga)
+- [Armadura](#armadura)
+- [Personajes no jugadores](#personajes-no-jugadores)
+- [Riqueza y tesoro](#riqueza-y-tesoro)
 - [Casos prácticos](./03-reglas-casos-practicos.md)
 
 ---
@@ -31,6 +36,21 @@ El resultado se compara con:
 - la Defensa del objetivo
 - la dificultad del efecto
 
+No tires cuando la acción sea segura o cuando la ficción ya haya establecido el resultado. Describe primero qué intenta hacer el personaje, qué pone en riesgo y qué ocurrirá si falla; después decide si hace falta una tirada.
+
+## Atributos
+
+El Sistema Corporal utiliza cuatro atributos. Elige el atributo según la acción concreta, no según una lista fija de habilidades:
+
+| Atributo | Se usa principalmente para |
+| --- | --- |
+| **Cuerpo** | Fuerza física, resistencia, velocidad, coordinación y esfuerzo corporal |
+| **Mente** | Percepción, memoria, análisis, conocimiento y concentración |
+| **Espíritu** | Voluntad, miedo, fe, resistencia sobrenatural y control interior |
+| **Presencia** | Persuasión, engaño, intimidación, liderazgo y manipulación social |
+
+Una misma situación puede resolverse con atributos distintos si cambia el enfoque. Convencer a alguien puede usar Presencia; estudiar sus motivaciones, Mente; o resistir su presión, Espíritu. La competencia solo se suma cuando la ficha o la ficción justifican que el personaje está entrenado en ese campo.
+
 ## Tiradas
 
 ### Tirada de ataque
@@ -44,6 +64,10 @@ Contra:
 > Defensa del objetivo
 
 Si el resultado es igual o superior, impacta.
+
+### Tiradas enfrentadas
+
+Cuando dos personajes se oponen directamente, ambos describen su acción y tiran con el atributo y la competencia apropiados. Gana el resultado más alto. En caso de empate, conserva la ventaja quien tenía la posición más favorable; si no hay una diferencia clara, la situación se complica para ambos y el guardián decide una consecuencia coherente.
 
 ### Tirada de efecto
 
@@ -83,13 +107,15 @@ Ejemplo:
 
 ## Salvaciones
 
-Una salvación representa resistir o evitar un efecto negativo.
+Una salvación representa resistir o evitar un efecto negativo que la acción del personaje no puede resolver por sí sola. El guardián indica el atributo y la dificultad antes de la tirada cuando sea posible.
 
 Se define como:
 
 > 1d20 + atributo apropiado + competencia
 
 La dificultad la determina el efecto. No existen Defensa mental, espiritual o social como estadísticas permanentes.
+
+Si el resultado es igual o superior a la dificultad, la salvación tiene éxito. Un 20 natural siempre es un fracaso y un 1 natural siempre es un éxito. Estos resultados extremos solo modifican la salvación; no sustituyen las consecuencias que la ficción determine.
 
 Ejemplo:
 
@@ -169,22 +195,105 @@ El daño puede venir de:
 
 El sistema permite que el daño esté vinculado a la capacidad concreta del personaje, y no solo a una “estadística” global.
 
+### Aplicar daño
+
+1. Determina el daño de la fuente.
+2. Resta la Armadura que corresponda al objetivo.
+3. Reduce la Vida restante por el daño sufrido.
+4. Describe la herida, la posición perdida o la consecuencia que produce el golpe.
+
+Si un efecto no causa daño numérico, aplica directamente su consecuencia: derribo, desarme, miedo, pérdida de una acción, separación del grupo u otra condición que encaje con la ficción. La Vida no sustituye a las heridas ni hace irrelevante una situación peligrosa.
+
 ## Inventario y fatiga
 
-El inventario indica lo que se puede llevar sin penalizarse. Si se sobrecarga la carga, la situación puede volverse comprometida.
+El inventario indica lo que se puede llevar sin penalizarse. La regla completa de espacios está en [Equipo inicial](./01-creacion-personaje-equipo-inicial.md). Si se llena, el personaje queda sobrecargado y el guardián puede exigir una decisión: dejar algo atrás, usar transporte o aceptar una consecuencia.
 
-La fatiga representa desgaste físico, mental o espiritual. Si se acumula demasiado, reduce la capacidad de actuar con normalidad y puede imposibilitar la recuperación.
+La **fatiga** representa desgaste físico, mental o espiritual. Cada punto de fatiga ocupa un espacio de inventario y permanece hasta que el personaje descansa una noche completa en un lugar seguro. La fatiga puede proceder de:
+
+- no comer, beber o dormir lo suficiente
+- viajar o esforzarse durante demasiado tiempo
+- lanzar un poder que indique ese coste
+- sufrir una condición o consecuencia de la ficción
+
+Mientras tenga fatiga, el personaje puede actuar, pero su carga y sus recursos son más limitados. Si la fatiga llena el inventario, queda exhausto: no puede recuperar Vida ni eliminar fatiga hasta satisfacer sus necesidades básicas y descansar en condiciones seguras.
+
+## Curación
+
+Un descanso breve, agua y unos minutos sin presión permiten recuperar parte de la Vida perdida cuando la ficción lo permite. El guardián puede negar esta recuperación si el personaje sigue expuesto, gravemente herido o en peligro inmediato.
+
+Una noche de descanso seguro permite recuperar la Vida que corresponda a la atención recibida y eliminar la fatiga que pueda recuperarse de ese modo. Una herida grave, una consecuencia especial o una zona corporal dañada puede requerir un sanador, una semana de reposo o un tratamiento específico. La curación mágica y los servicios expertos pueden tener un coste, una deuda o una condición.
+
+Recuperar Vida no elimina automáticamente una herida, una deuda, una condición ni una consecuencia narrativa. Esas partes de la ficción deben resolverse mediante cuidados, tiempo, recursos o decisiones durante la partida.
+
+## Armadura
+
+La Armadura reduce el daño sufrido por un ataque antes de restarlo de la Vida:
+
+> Daño sufrido = daño del ataque - Armadura
+
+El resultado mínimo es 0. La Armadura solo se aplica si la protección está puesta y puede cubrir el impacto. Un escudo se aplica cuando se empuña; un yelmo o unos guanteletes, cuando protegen la zona correspondiente. El valor máximo de Armadura es 3, salvo que una regla especial indique lo contrario.
+
+La Armadura no protege contra todos los peligros. El guardián puede ignorarla ante venenos, caídas, asfixia, magia o situaciones en las que la protección no intervenga.
+
+## Personajes no jugadores
+
+Los PNJ se describen con la cantidad mínima de información necesaria: nombre, actitud, Defensa, Vida o resistencia, atributos relevantes, daño, comportamiento y una capacidad especial. Consulta el [Bestiario](./06-bestiario.md) para ejemplos y plantillas.
+
+### Reacciones
+
+Cuando la actitud de un PNJ no sea evidente, el guardián puede tirar 2d6:
+
+| 2d6 | Reacción |
+| ---: | --- |
+| 2-3 | Hostil: busca perjudicar al grupo o expulsarlo |
+| 4-5 | Cautelosa: desconfía y exige garantías |
+| 6-8 | Curiosa: pregunta, observa o negocia |
+| 9-11 | Amable: ofrece ayuda razonable |
+| 12 | Servicial: toma la iniciativa para colaborar |
+
+La reacción no reemplaza la conversación ni fija para siempre la actitud del PNJ. Las decisiones del grupo, sus recursos y la ficción pueden cambiarla.
+
+### Moral
+
+La moral pertenece a los PNJ y enemigos, no a los PJ. Un grupo puede hacer una prueba de Espíritu o Voluntad cuando sufre una baja importante, pierde a su líder o queda claramente superado. Si falla, busca una salida: huye, se rinde, negocia o se repliega según su naturaleza.
+
+Los enemigos solitarios hacen la prueba cuando quedan muy heridos o cuando su objetivo deja de ser viable. Las criaturas fanáticas, sin mente o impulsadas por una orden pueden ignorar esta regla.
+
+### Seguidores
+
+Un seguidor necesita solo una descripción, una motivación, una paga o condición de servicio, un atributo principal, una Defensa, una Vida y un arma o capacidad útil. Usa la siguiente base si no hay tiempo para crear una ficha completa:
+
+- atributos: Cuerpo 1, Mente 1, Espíritu 1, Presencia 1
+- Defensa: 11
+- Vida: 4
+- daño: 1d6
+- una competencia o rasgo definido por su trasfondo
+
+Un seguidor actúa según sus intereses y puede negarse a asumir un riesgo absurdo. La paga habitual es de 1 a 3 monedas de oro por día, o una parte acordada del tesoro.
+
+## Riqueza y tesoro
+
+La moneda habitual es la moneda de oro (mo). Diez monedas de plata equivalen a una de oro, y cien monedas de cobre equivalen a una de oro.
+
+El tesoro suele ser valioso, voluminoso y difícil de usar durante una expedición. Ocupa espacios según su tamaño y puede exigir transporte adicional. Las reliquias, documentos y objetos con valor narrativo no tienen por qué convertirse en monedas: pueden abrir puertas, crear deudas o atraer problemas.
+
+El valor de un tesoro depende del lugar, la persona que lo compra y la historia que contiene. Las aldeas, fortalezas y puertos no tienen por qué pagar lo mismo ni aceptar cualquier objeto.
 
 ---
 
 ## Regla breve para la mesa
 
 - La tirada siempre responde a una acción concreta.
+- Cuerpo, Mente, Espíritu y Presencia cubren las acciones principales.
 - La dificultad debe ser clara.
 - La Defensa usa Cuerpo, características y equipo.
 - La Vida usa Cuerpo y Torso.
 - Las salvaciones sirven para resistir efectos.
+- La Armadura reduce el daño antes de restarlo de la Vida.
 - Las reacciones como Esquiva se obtienen mediante habilidades concretas.
+- La moral y las reacciones ayudan a interpretar PNJ, pero no reemplazan la ficción.
 - Los peligros deben tener consecuencias entendibles.
 
 Para continuar, revisa el sistema corporal en [Sistema corporal](./03-reglas-sistema-corporal.md).
+
+[regresar al contenido](#sumario)
