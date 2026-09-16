@@ -8,12 +8,13 @@ layout: default
 
 ## Sumario
 
+- [Crear un personaje](#crear-un-personaje)
 - [Proceso de creación](#proceso-de-creacion)
 - [Nombre y trasfondo](#nombre-y-trasfondo)
 - [Rasgos del personaje](#rasgos-del-personaje)
 - [Edad](#edad)
-- [Puntos de desarrollo por nivel](#puntos-de-desarrollo-por-nivel)
 - [Atributos y competencias](#atributos-y-competencias)
+- [Puntos de desarrollo por nivel](#puntos-de-desarrollo-por-nivel)
 - [Distribución corporal](#distribucion-corporal)
 - [Estadísticas iniciales](#estadisticas-iniciales)
 - [Perfil básico del personaje](#perfil-basico-del-personaje)
@@ -22,14 +23,26 @@ layout: default
 - [Perfiles y clases predefinidas](./01-creacion-personaje-perfiles.md)
 - [Creación rápida](#creacion-rapida)
 
+## Crear un personaje
+
+Crear un personaje consiste en decidir **quién es**, **qué sabe hacer** y **por qué se arriesga**. No necesitas elegir una clase cerrada: su identidad nace de la combinación de **trasfondo**, **atributos**, **competencias**, **cuerpo** y **equipo**.
+
+Primero define una idea sencilla. Después elige o genera un [**nombre y trasfondo**](#nombre-y-trasfondo), unos [**rasgos**](#rasgos-del-personaje) y una [**edad**](#edad). Estas decisiones no son decoración: indican qué conoce el personaje, qué relaciones puede tener y qué problemas pueden entrar en juego.
+
+Luego completa sus capacidades. [**Cuerpo, Mente, Espíritu y Presencia**](#atributos-y-competencias) describen sus áreas generales; las competencias muestran cómo aplica esas capacidades. La [**distribución corporal**](#distribucion-corporal) concreta su forma de actuar y sus especializaciones físicas.
+
+Por último calcula [**Vida y Defensa**](#estadisticas-iniciales), prepara el **inventario** y elige el [**equipo inicial**](./01-creacion-personaje-equipo-inicial.md). La ficha queda lista cuando también tiene una **motivación** y un vínculo con el mundo.
+
+**Ejemplo:** una jugadora quiere interpretar a una antigua guardia. Elige el trasfondo de soldada, toma **Cuerpo** como atributo principal, escoge **Resistencia** y **Liderazgo** como competencias, y reparte más puntos corporales entre **Torso** y **Brazos**. La historia y las reglas empiezan a contar lo mismo.
+
 ## Proceso de creación
 
-1. Define el concepto y genera o elige nombre, trasfondo y rasgos.
-2. Determina la edad y escribe un detalle del pasado del personaje.
-3. Asigna los atributos y los puntos de desarrollo iniciales.
-4. Escoge competencias y reparte los puntos corporales.
-5. Calcula Vida y Defensa.
-6. Elige el equipo inicial y escribe una motivación.
+1. Define el concepto y genera o elige [nombre, trasfondo y rasgos](#nombre-y-trasfondo).
+2. Determina la [edad](#edad) y escribe un detalle del pasado del personaje.
+3. Asigna los [atributos y competencias](#atributos-y-competencias), junto con los puntos de desarrollo iniciales.
+4. Reparte los puntos corporales entre las zonas de la [distribución corporal](#distribucion-corporal).
+5. Calcula [Vida y Defensa](#estadisticas-iniciales), y escribe una motivación.
+6. Elige el [equipo inicial](./01-creacion-personaje-equipo-inicial.md) y un detalle que conecte al personaje con el mundo.
 
 Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar los dados, elegir un resultado o combinar ambos métodos. Cuando un resultado no encaje con el concepto del personaje, conviértelo en una pregunta para la ficción en lugar de descartarlo sin más.
 
@@ -212,6 +225,12 @@ Tira 2d20 y suma 10. El resultado orienta la edad del personaje, pero no impone 
 | 31-40 | Adulto experimentado |
 | 41-50 | Persona anciana o excepcionalmente longeva |
 
+## Atributos y competencias
+
+Elige los atributos que expresen la forma principal de actuar del personaje y desarrolla las competencias que encajen con su historia. Los atributos no son clases: describen capacidades y dejan que la ficción determine cómo se aplican.
+
+Consulta [Atributos y especializaciones](./01-creacion-personaje-atributos.md) para las puntuaciones, competencias, dotes y características defensivas.
+
 ---
 
 ## Puntos de desarrollo por nivel
@@ -238,12 +257,6 @@ Se recomienda comenzar en nivel 1 con:
 | 10 | 12 |
 | 11 | 13 |
 | 12 | 14 |
-
-## Atributos y competencias
-
-Elige los atributos que expresen la forma principal de actuar del personaje y desarrolla las competencias que encajen con su historia. Los atributos no son clases: describen capacidades y dejan que la ficción determine cómo se aplican.
-
-Consulta [Atributos y especializaciones](./01-creacion-personaje-atributos.md) para las puntuaciones, competencias, dotes y características defensivas.
 
 ## Perfil básico del personaje
 
