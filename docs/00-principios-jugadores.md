@@ -6,6 +6,16 @@ layout: default
 
 [Volver](../)
 
+## Sumario
+
+- [Capacidad de acción](#capacidad-de-accion)
+- [Trabajo en equipo](#trabajo-en-equipo)
+- [Exploración](#exploracion)
+- [Interactuando con PNJ](#interactuando-con-pnj)
+- [Id con precaución](#id-con-precaucion)
+- [Preparad](#preparad)
+- [Alimentad la ambición](#alimentad-la-ambicion)
+
 ## Capacidad de acción
 
 - Las características y las tiradas de salvación no definen a los personajes. Estos valores son solo herramientas.
@@ -14,7 +24,7 @@ layout: default
 
 ## Trabajo en equipo
 
-- Buscad el consenso con el resto de jugadoras antes de seguir adelante.
+- Buscad el consenso con el resto de jugadores antes de seguir adelante.
 - Mantened un acuerdo claro sobre los objetivos y límites del grupo, respetándose mutuamente para lograr en equipo lo que no pueden lograr por separado.
 
 ## Exploración
@@ -43,5 +53,7 @@ layout: default
 - Definid metas y utilizad todos los medios a vuestra disposición para ir progresando hacia ellas.
 - No deis nada por sentado. Ganaos vuestra reputación.
 - Mantened las cosas en movimiento y jugad para descubrir qué sucede.
+
+[regresar al contenido](#sumario)
 
 Para seguir con la documentación, revisa [Principios del sistema](./00-principios.md) o avanza a la [Creación del personaje](./01-creacion-personaje.md).

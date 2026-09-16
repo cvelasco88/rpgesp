@@ -20,7 +20,7 @@ La intención es mantener una experiencia de juego clara, peligrosa, narrativa y
 - [Sin clases rígidas](#sin-clases-rigidas)
 - [Letalidad](#letalidad)
 - [La ficción va primero](#la-ficcion-va-primero)
-- [Progresión por experiencia](#progresion-por-experiencia)
+- [Mejora de los personajes](#mejora-de-los-personajes)
 - [Decisiones claras](#decisiones-claras)
 
 ---
@@ -49,7 +49,7 @@ Los dados no sustituyen la historia. Cuando una acción es posible, el resultado
 
 La tirada ayuda a tomar la decisión, pero nunca reemplaza la narrativa.
 
-## Progresión por experiencia
+## Mejora de los personajes
 
 Los personajes mejoran mientras exploran, resuelven conflictos y sobreviven a peligros reales. El crecimiento del personaje se apoya en el desarrollo de atributos, habilidades y especializaciones.
 
@@ -57,7 +57,7 @@ El sistema valora la evolución gradual, personalizada y basada en la aventura.
 
 ## Decisiones claras
 
-Las jugadoras deben entender siempre qué están arriesgando. Cuando una acción tiene consecuencias reales, el guardián debe comunicar:
+Los jugadores deben entender siempre qué están arriesgando. Cuando una acción tiene consecuencias reales, el guardián debe comunicar:
 
 - el riesgo
 - la dificultad

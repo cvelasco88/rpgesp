@@ -6,17 +6,28 @@ layout: default
 
 [Volver](../)
 
+## Sumario
+
+- [Información](#informacion)
+- [Dificultad](#dificultad)
+- [Preparación](#preparacion)
+- [Enfocado en la narrativa](#enfocado-en-la-narrativa)
+- [Peligro](#peligro)
+- [Tesoro](#tesoro)
+- [Dar opciones](#dar-opciones)
+- [El dado del destino](#el-dado-del-destino)
+
 ## Información
 
 - Proporciona información útil acerca del mundo conforme los personajes lo exploran.
-- Las jugadoras no necesitan hacer tiradas para obtener información sobre las circunstancias en las que se encuentran.
-- Cuando las jugadoras te pregunten, responde de forma útil y directa.
-- Responde con sinceridad a las jugadoras, describe constantemente y hazles saber que pueden seguir haciendo preguntas.
+- Los jugadores no necesitan hacer tiradas para obtener información sobre las circunstancias en las que se encuentran.
+- Cuando los jugadores te pregunten, responde de forma útil y directa.
+- Responde con sinceridad a los jugadores, describe constantemente y hazles saber que pueden seguir haciendo preguntas.
 
 ## Dificultad
 
 - Utiliza el contexto y el realismo, en vez de los números y las mecánicas.
-- Si algo que las jugadoras quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
+- Si algo que los jugadores quieren hacer es simplemente imposible, ninguna tirada les permitirá hacerlo.
 - ¿Es creíble lo que la jugadora describe y cómo aprovecha la situación? Deja que ocurra.
 - Las tiradas de salvación cubren un amplio abanico de situaciones y suelen ser todo lo que se necesita para lidiar con los peligros.
 
@@ -30,16 +41,16 @@ layout: default
 ## Enfocado en la narrativa
 
 - Lo verdaderamente importante es la experiencia de juego que se desarrolle, no los números ni las características de los personajes.
-- Ofrece a las jugadoras instructores de armas o misiones personales que faciliten la mejora y especialización de su personaje.
-- Presta atención a las necesidades y deseos de las jugadoras, luego pon en su camino oportunidades realistas.
+- Ofrece a los jugadores instructores de armas o misiones personales que faciliten la mejora y especialización de su personaje.
+- Presta atención a las necesidades y deseos de los jugadores, luego pon en su camino oportunidades realistas.
 - Una daga en la garganta te matará, independientemente de lo cara que sea tu armadura o de tu impresionante entrenamiento.
 
 ## Peligro
 
 - En el mundo del juego, los PJ siempre corren el riesgo de conocer el dolor y la muerte.
-- Avisa a las jugadoras cuando se presente un peligro serio. Cuanto más peligroso, más obvio.
-- Pon trampas a la vista y deja que las jugadoras se tomen su tiempo buscando una solución.
-- Ofrece a las jugadoras oportunidades para resolver problemas e interactuar con el mundo.
+- Avisa a los jugadores cuando se presente un peligro serio. Cuanto más peligroso, más obvio.
+- Pon trampas a la vista y deja que los jugadores se tomen su tiempo buscando una solución.
+- Ofrece a los jugadores oportunidades para resolver problemas e interactuar con el mundo.
 
 ## Tesoro
 
@@ -50,15 +61,17 @@ layout: default
 
 ## Dar opciones
 
-- Cuando la situación se estanque, ofrece a las jugadoras una opción interesante que les obligue a tomar una decisión.
-- Cuando las intenciones de las jugadoras no estén claras, utiliza preguntas con respuestas binarias: “Entonces, ¿A o B?”.
+- Cuando la situación se estanque, ofrece a los jugadores una opción interesante que les obligue a tomar una decisión.
+- Cuando las intenciones de los jugadores no estén claras, utiliza preguntas con respuestas binarias: “Entonces, ¿A o B?”.
 - Participad todas en este método de conversación para mantener el juego en movimiento.
 - Asegúrate de que las acciones de los PJ dejan huella en el mundo.
 
 ## El dado del destino
 
 - De vez en cuando querrás determinar al azar un elemento de tu partida, como el clima o un saber único de un personaje.
-- En esas situaciones, tira 1d6. Un resultado de 4 o más suele favorecer a las jugadoras.
+- En esas situaciones, tira 1d6. Un resultado de 4 o más suele favorecer a los jugadores.
 - Un resultado de 3 o menos suele significar mala suerte para los PJ y sus aliados.
+
+[regresar al contenido](#sumario)
 
 Para seguir con la documentación, consulta [Principios del sistema](./00-principios.md) o revisa la [Creación del personaje](./01-creacion-personaje.md).
