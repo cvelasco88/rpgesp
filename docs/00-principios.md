@@ -6,8 +6,16 @@ layout: default
 
 [Volver](../)
 
+## Introducción
+
+El sistema no se define solo por reglas y tablas. Se sostiene sobre un conjunto de principios que guían tanto la dirección de la mesa como la forma en que las jugadoras interpretan a sus personajes.
+
+Estos principios sirven para mantener una experiencia de juego coherente, peligrosa y orientada a la ficción.
+
 ## Sumario
 
+- [Principios del guardián](./00-principios-guardian.md)
+- [Principios de los jugadores](./00-principios-jugadores.md)
 - [Neutralidad](#neutralidad)
 - [Sin clases rígidas](#sin-clases-rigidas)
 - [Desarrollo por experiencia](#desarrollo-por-experiencia)
@@ -79,3 +87,8 @@ Esto mantiene la partida rigurosa, pero también legible.
 - La amenaza existe, pero la dificultad debe ser comprensible.
 
 Para continuar, revisa la sección de [Creación del personaje](./01-creacion-personaje.md).
+
+También puedes consultar los principios específicos de:
+
+- [Principios del guardián](./00-principios-guardian.md)
+- [Principios de los jugadores](./00-principios-jugadores.md)
