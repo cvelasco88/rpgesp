@@ -19,6 +19,7 @@ layout: default
 - [Fatiga](#fatiga)
 - [Inventario](#inventario)
 - [Armadura](#armadura)
+- [Combate](./04-combate.md)
 - [Personajes no jugadores](#personajes-no-jugadores)
 - [Riqueza y tesoro](#riqueza-y-tesoro)
 - [Casos prácticos](./03-reglas-casos-practicos.md)

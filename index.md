@@ -18,8 +18,9 @@ La intención del sistema es ofrecer una estructura clara, rápida y brutalmente
 - [Creación del personaje](./docs/01-creacion-personaje.md)
 - [Equipo](./docs/05-equipo.md)
 - [Reglas](./docs/03-reglas.md)
+- [Magia](./docs/07-magia-y-poderes.md)
+- [Combate](./docs/04-combate.md)
 - [Bestiario](./docs/06-bestiario.md)
-- [Magia y poderes](./docs/07-magia-y-poderes.md)
 - [Resumen de reglas](./docs/99-resumen-de-reglas.md)
 
 ## Sumario
