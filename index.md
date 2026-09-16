@@ -29,39 +29,13 @@ La intención del sistema es ofrecer una estructura clara, rápida y brutalmente
 
 ## Sumario
 
-**Sistema Corporal** fue escrito conforme a la siguiente filosofía de diseño:
+**Sistema Corporal** se apoya en una filosofía de juego clara: el guardián arbitra con justicia, la ficción tiene prioridad sobre la tirada, la progresión es por experiencia y el peligro real acompaña cada decisión.
 
-### Neutralidad
+Para ver la formulación completa de estas ideas, consulta:
 
-El papel del **guardián** consiste en describir el mundo, las amenazas, los personajes no jugadores y la historia de manera clara, sin imponer interpretaciones arbitrarias ni reglas ocultas. El arbitraje debe ser justo, consistente y comprensible.
-
-### Sin clases rígidas
-
-Los personajes no son definidos por una clase que limite todo su potencial. Su especialidad surge de sus atributos, su desarrollo, su equipo, su estilo de juego y sus decisiones de aventura.
-
-### Letalidad
-
-Un personaje puede ser poderoso, pero sigue siendo frágil ante el peligro. La muerte, la herida grave, la fatiga y la pérdida de capacidad forman parte del riesgo real del sistema.
-
-### La ficción va primero
-
-Los dados no sustituyen la historia. Cuando una acción es posible, el resultado debe resolverse según la situación, la intención del personaje y la lógica del mundo narrativo.
-
-### Progresión por experiencia
-
-Los personajes evolucionan mientras exploran, resuelven conflictos y sobreviven a peligros reales. El crecimiento del personaje se apoya en el desarrollo de atributos, habilidades y especializaciones.
-
-### Decisiones claras
-
-Las jugadoras siempre deben entender qué están arriesgando. Cuando una acción puede llevar a consecuencias graves, el guardián debe explicar el riesgo, la dificultad y la posible consecuencia del fracaso.
-
-### Principios del juego
-
-El sistema ofrece una guía para ambas partes de la mesa: el guardián y las jugadoras. Estas directrices promueven la improvisación, la exploración, la tensión narrativa y la cooperación del grupo.
-
-### Objetivos compartidos
-
-La aventura se vive mejor cuando el grupo comparte una misma dirección, una misma amenaza y una misión común. El éxito del grupo depende de la colaboración, la creatividad y las decisiones tomadas en conjunto.
+- [Principios del sistema](./docs/00-principios.md)
+- [Principios del guardián](./docs/00-principios-guardian.md)
+- [Principios de los jugadores](./docs/00-principios-jugadores.md)
 
 ---
 
