@@ -11,6 +11,8 @@ layout: default
 - [Listado de equipo](#listado-de-equipo)
 - [Armaduras](#armaduras)
 - [Armas](#armas)
+- [Propiedades de las armas](#propiedades-de-las-armas)
+- [Competencias de armadura](#competencias-de-armadura)
 - [Equipo y herramientas](#equipo-y-herramientas)
 
 ## Listado de equipo
@@ -38,6 +40,28 @@ Los precios están expresados en monedas de oro. Los objetos voluminosos ocupan 
 | Honda | 5 | 1d4 daño |
 | Arco | 20 | 1d6 daño, voluminosa |
 | Ballesta | 30 | 1d8 daño, voluminosa |
+
+Las familias concretas de armas y sus competencias están en [Atributos y especializaciones](./01-creacion-personaje-atributos.md). La competencia con un arma permite utilizarla, pero no se suma como bonificador a la tirada.
+
+## Propiedades de las armas
+
+Las armas pueden tener propiedades independientes de la competencia:
+
+- **Ligera**
+- **Una mano**
+- **Versátil**
+- **Dos manos**
+- **Alcance**
+- **Arrojadiza**
+- **A distancia**
+
+Estas propiedades describen cómo puede manejarse físicamente el arma. No conceden por sí solas entrenamientos ni dotes.
+
+## Competencias de armadura
+
+La ficha del personaje registra por separado sus competencias con armadura ligera, media, pesada y escudos. Llevar una protección sin competencia puede impedir usar sus beneficios correctamente o imponer una consecuencia decidida por el guardián.
+
+Una pieza concreta puede exigir además un atributo o una dote. La Armadura reduce el daño según las [Reglas](./03-reglas.md), pero la competencia determina si el personaje sabe llevarla y aprovecharla.
 
 ### Equipo y herramientas
 

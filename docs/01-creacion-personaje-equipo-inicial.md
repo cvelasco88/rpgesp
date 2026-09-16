@@ -52,6 +52,8 @@ El equipo se puede dividir en varias categorías:
 
 Todos los personajes comienzan con raciones para tres días, una antorcha, una mochila y 3d6 monedas. Después, realiza una tirada en cada tabla o elige un resultado. Elige un solo objeto por cada resultado, salvo que la propia entrada indique una cantidad o un conjunto.
 
+Cuando una tabla concede un arma o una protección, el personaje obtiene también la competencia necesaria para utilizarla durante la creación. Esa competencia permite usar el objeto, pero no se suma a las tiradas. Los entrenamientos y las dotes se anotan por separado.
+
 ### Armadura (d20)
 
 | d20 | Resultado | d20 | Resultado |

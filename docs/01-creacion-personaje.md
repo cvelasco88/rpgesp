@@ -14,6 +14,8 @@ layout: default
 - [Rasgos del personaje](#rasgos-del-personaje)
 - [Edad](#edad)
 - [Atributos y competencias](#atributos-y-competencias)
+- [Competencias de armas y armaduras](#competencias-de-armas-y-armaduras)
+- [Entrenamientos y dotes](#entrenamientos-y-dotes)
 - [Puntos de desarrollo por nivel](#puntos-de-desarrollo-por-nivel)
 - [Distribución corporal](#distribucion-corporal)
 - [Estadísticas iniciales](#estadisticas-iniciales)
@@ -34,9 +36,10 @@ La clave no es llenar una ficha con números, sino que cada decisión ayude a co
 2. Elige o genera [nombre, trasfondo y rasgos](#nombre-y-trasfondo).
 3. Determina la [edad](#edad) y escribe un detalle del pasado.
 4. Asigna los [atributos y competencias](#atributos-y-competencias), junto con los puntos de desarrollo iniciales.
-5. Reparte los puntos corporales entre las zonas de la [distribución corporal](#distribucion-corporal).
-6. Calcula [Vida y Defensa](#estadisticas-iniciales) y escribe una motivación.
-7. Elige el [equipo inicial](./01-creacion-personaje-equipo-inicial.md) y un vínculo con el mundo.
+5. Elige las [competencias de armas y armaduras](#competencias-de-armas-y-armaduras), los entrenamientos y las dotes iniciales.
+6. Reparte los puntos corporales entre las zonas de la [distribución corporal](#distribucion-corporal).
+7. Calcula [Vida y Defensa](#estadisticas-iniciales) y escribe una motivación.
+8. Elige el [equipo inicial](./01-creacion-personaje-equipo-inicial.md) y un vínculo con el mundo.
 
 Puedes elegir cada resultado o generarlo con las tablas. Un método completamente aleatorio es tirar una vez para el nombre, el trasfondo, la edad y al menos tres rasgos; después, interpreta los resultados y ajusta cualquier elemento que impida jugar el personaje que quieres.
 
@@ -76,7 +79,19 @@ Los [**atributos**](./01-creacion-personaje-atributos.md) representan la forma g
 
 Las [**competencias**](./01-creacion-personaje-atributos.md) muestran cómo aplica esas capacidades en la práctica. Para cada atributo, anota al menos una competencia o especialización que explique cómo lo usa el personaje. Un personaje con mucha presencia puede ser diplomático, carismático o manipulador; uno con mucho cuerpo puede ser resistente, técnico o de combate; uno con mucha mente puede analizar, recordar o inventar soluciones; uno con mucho espíritu puede resistir el miedo, la magia o la presión emocional.
 
-Elige las capacidades que encajen con la identidad del personaje, no con una “mejor build” abstracta. Si no sabes por dónde empezar, usa su trasfondo y su motivación como guía.
+Elige las capacidades que encajen con la identidad del personaje, no con una “mejor build” abstracta. Las competencias generales tienen valores de 0 a 5; las competencias de armas, armaduras, entrenamientos y dotes se poseen o no se poseen. Si no sabes por dónde empezar, usa su trasfondo y tu motivación como guía.
+
+### Competencias de armas y armaduras
+
+Elige las armas que el personaje sabe utilizar y las categorías de armadura que puede llevar correctamente. Una competencia de arma no se suma a las tiradas: permite usar el arma y sus técnicas básicas. Consulta [Atributos y especializaciones](./01-creacion-personaje-atributos.md) para las listas completas.
+
+Un personaje inicial debería recibir varias competencias de armas para definir su estilo, por ejemplo: espada larga, daga y arco largo; o lanza, escudo y ballesta ligera. También puede recibir competencias por trasfondo, entrenamiento o dote.
+
+### Entrenamientos y dotes
+
+Los entrenamientos permiten estilos como Combate a dos manos, Combate con dos armas, Combate con escudo, Combate montado o Armas arrojadizas. Las dotes desbloquean acciones, reacciones o capacidades especiales. Ninguno tiene un valor numérico.
+
+No confundas una competencia con una dote: la competencia dice “sé utilizar esta arma”; la dote dice “puedo hacer algo especial con ella”.
 
 ### 5. Distribución corporal
 
@@ -147,7 +162,7 @@ Se recomienda comenzar en nivel 1 con:
 | Cuerpo +1 | +2 puntos corporales | Sueles repartirlos entre zonas y especializaciones físico-mecánicas |
 | Mente +1 | Mejora análisis, conocimiento y percepción intelectual | Ideal para magos, investigadores, técnicos |
 | Espíritu +1 | Mejora resistencia espiritual y control sobrenatural | Ideal para místicos, líderes espirituales |
-| Presencia +1 | +1 punto de competencia social | Ideal para diplomáticos, líderes y manipuladores |
+| Presencia +1 | +1 mejora de Presencia | Ideal para diplomáticos, líderes y manipuladores |
 
 ## Distribución corporal
 

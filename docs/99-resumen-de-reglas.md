@@ -10,6 +10,7 @@ layout: default
 
 - [Acciones principales](#acciones-principales)
 - [Tiradas básicas](#tiradas-basicas)
+- [Competencias y capacidades](#competencias-y-capacidades)
 - [Defensa y salvaciones](#defensa-y-salvaciones)
 - [Dificultades](#dificultades)
 - [Vida](#vida)
@@ -33,6 +34,14 @@ El resultado se compara con la dificultad o con la Defensa del objetivo.
 - ataque: 1d20 + atributo apropiado + competencia
 - defensa: 10 + Cuerpo + características y equipo
 - salvación: 1d20 + atributo apropiado + competencia contra un efecto
+
+## Competencias y capacidades
+
+- Las competencias generales tienen un valor de 0 a 5 y se suman a las pruebas.
+- Las competencias de armas y armaduras se poseen o no se poseen; no son bonificadores numéricos.
+- Los entrenamientos describen estilos de uso del equipo.
+- Las dotes y rasgos cambian reglas, desbloquean acciones o proporcionan reacciones.
+- Los puntos corporales sirven como requisitos o escalado de habilidades, no como dados adicionales.
 
 ## Defensa y salvaciones
 
@@ -87,7 +96,8 @@ Para el desarrollo completo, consulta [Sistema corporal](./03-reglas-sistema-cor
 - 1 punto por nivel
 - 3 puntos al comenzar en nivel 1
 - Cuerpo +1 = +2 puntos corporales
-- Presencia +1 = +1 competencia social
+- Presencia +1 = +1 mejora de Presencia
+- Una competencia general tiene un valor de 0 a 5; una competencia de arma se posee o no se posee.
 - Mente y Espíritu +1 mejoran la capacidad general del atributo
 - Torso mejora la Vida mediante escalones
 

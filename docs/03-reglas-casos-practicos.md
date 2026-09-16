@@ -75,7 +75,7 @@ La Cabeza aumenta la capacidad de control mental, análisis y precisión, mientr
 - Mente: 2
 - Espíritu: 2
 - Presencia: 4
-- Competencias sociales: Persuasión, Liderazgo, Intimidación
+- Competencias generales: Persuasión, Liderazgo, Intimidación
 
 Estadísticas derivadas, sin equipo ni desarrollo de Torso:
 

@@ -51,7 +51,7 @@ El Sistema Corporal utiliza cuatro atributos. Elige el atributo según la acció
 | **Espíritu** | Voluntad, miedo, fe, resistencia sobrenatural y control interior |
 | **Presencia** | Persuasión, engaño, intimidación, liderazgo y manipulación social |
 
-Una misma situación puede resolverse con atributos distintos si cambia el enfoque. Convencer a alguien puede usar Presencia; estudiar sus motivaciones, Mente; o resistir su presión, Espíritu. La competencia solo se suma cuando la ficha o la ficción justifican que el personaje está entrenado en ese campo.
+Una misma situación puede resolverse con atributos distintos si cambia el enfoque. Convencer a alguien puede usar Presencia; estudiar sus motivaciones, Mente; o resistir su presión, Espíritu. La competencia general solo se suma cuando la ficha o la ficción justifican que el personaje está entrenado en ese campo. Las competencias de armas, armaduras, entrenamientos y dotes no se suman como números.
 
 ## Tiradas
 

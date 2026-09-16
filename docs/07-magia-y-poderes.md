@@ -94,6 +94,8 @@ Un poder debe incluir, como mínimo:
 - **Coste:** fatiga, carga, uso, tiempo o condición.
 - **Riesgo:** qué ocurre si se lanza bajo presión o se falla una salvación.
 
+**Arcano** es una competencia general de Mente y puede aplicarse para comprender o identificar magia. **Canalización** es una característica o requisito especial: permite utilizar determinados poderes, pero no tiene un valor de 0 a 5 ni se suma automáticamente a las tiradas.
+
 Un poder puede funcionar automáticamente cuando su efecto es sencillo y la ficción lo permite. Si existe oposición, usa una tirada normal o una salvación del objetivo. No añadas una tirada solo por tratarse de magia.
 
 El coste puede ser:

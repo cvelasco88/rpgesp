@@ -12,6 +12,7 @@ layout: default
 - [Rondas y turnos](#rondas-y-turnos)
 - [Acciones](#acciones)
 - [Ataques](#ataques)
+- [Competencias y propiedades](#competencias-y-propiedades)
 - [Daño y armadura](#dano-y-armadura)
 - [Movimiento y posición](#movimiento-y-posicion)
 - [Esquiva y reacciones](#esquiva-y-reacciones)
@@ -65,13 +66,29 @@ Un ataque usa el atributo que corresponda a la forma de atacar:
 
 > 1d20 + atributo apropiado + competencia
 
-El resultado se compara con la Defensa del objetivo. Si es igual o superior, el ataque impacta y se tira el daño del arma, poder o maniobra.
+El personaje debe tener competencia con el arma utilizada. El resultado se compara con la Defensa del objetivo. Si es igual o superior, el ataque impacta y se tira el daño del arma, poder o maniobra.
 
 - Cuerpo suele aplicarse a golpes, armas pesadas y ataques que dependen de la fuerza.
 - Cuerpo o Mente pueden aplicarse a armas a distancia, según la técnica y la ficción.
 - Espíritu o Presencia pueden aplicarse a poderes que afecten directamente la voluntad o la esencia de un objetivo.
 
-No existe un atributo obligatorio para cada arma. La descripción de la acción decide cuál es apropiado.
+No existe un atributo obligatorio para cada arma. La descripción de la acción decide cuál es apropiado. La competencia de arma permite utilizarla, pero no se suma a la tirada; si además se aplica una competencia general, como Combate, sí se añade su valor.
+
+## Competencias y propiedades
+
+Las competencias de armas responden a “¿sé utilizar este tipo de arma?”. Los entrenamientos y las dotes responden a “¿puedo realizar esta técnica especial?”. Son requisitos distintos.
+
+Las propiedades del arma describen su uso físico:
+
+- **Ligera:** fácil de manejar y compatible con determinadas técnicas de dos armas.
+- **Una mano:** puede usarse dejando libre la otra mano.
+- **Versátil:** puede usarse con una o dos manos, según la ficha del arma.
+- **Dos manos:** requiere ambas manos.
+- **Alcance:** puede atacar desde una distancia mayor.
+- **Arrojadiza:** puede lanzarse según sus reglas.
+- **A distancia:** utiliza proyectiles o un mecanismo de alcance.
+
+Tener un arma ligera no concede automáticamente el entrenamiento Combate con dos armas. Tener competencia con dos armas no desbloquea por sí solo una técnica de ataque adicional.
 
 ## Daño y armadura
 
