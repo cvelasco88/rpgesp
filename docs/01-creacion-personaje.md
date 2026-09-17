@@ -66,7 +66,7 @@ No es necesario usar lo que salga al azar si no encaja con la idea del personaje
 
 Consulta [Nombre y trasfondo](#nombre-y-trasfondo) y [Rasgos del personaje](#rasgos-del-personaje) para generar o ajustar la identidad del personaje.
 
-El trasfondo no concede una bonificación automática. Define conocimientos, contactos y objetos plausibles; consulta los [trasfondos](./opciones-personaje/trasfondos/) para elegir una propuesta concreta sin repetir aquí su catálogo.
+El trasfondo concede competencias, equipo y un rasgo narrativo, pero no una bonificación automática. Define conocimientos, contactos y objetos plausibles; consulta los [trasfondos](./opciones-personaje/trasfondos/) para elegir una propuesta concreta sin repetir aquí su catálogo.
 
 ### 3. Edad y pasado
 
@@ -249,22 +249,9 @@ Estas tablas sirven para generar nombres y detalles rápidos. Los trasfondos des
 | 9 | Hojamala | 19 | Velaparda |
 | 10 | Lanzaquieta | 20 | Zarzablanca |
 
-#### Ideas de trasfondo (d20)
+#### Trasfondos
 
-| d20 | Trasfondo | d20 | Trasfondo |
-| ---: | --- | ---: | --- |
-| 1 | Aprendiz de alquimia | 11 | Guardabosques |
-| 2 | Artesana o artesano | 12 | Herbolaria o herbolario |
-| 3 | Carterista | 13 | Jornalera o jornalero |
-| 4 | Cazadora o cazador | 14 | Marinera o marinero |
-| 5 | Curandera o curandero | 15 | Mercader |
-| 6 | Exiliada o exiliado | 16 | Minera o minero |
-| 7 | Exploradora o explorador | 17 | Peregrina o peregrino |
-| 8 | Granuja de ciudad | 18 | Soldada o soldado |
-| 9 | Guía de caminos | 19 | Testigo de lo oculto |
-| 10 | Herrera o herrero | 20 | Contrabandista |
-
-El trasfondo sugiere conocimientos, contactos y herramientas, pero no concede una bonificación automática.
+Consulta el [catálogo de trasfondos](./opciones-personaje/trasfondos/) para elegir un pasado, al menos una competencia general, al menos una competencia con equipo o arma, equipo inicial, un rasgo y una complicación. El trasfondo aporta recursos de ficción, pero no concede una bonificación automática.
 
 ### Rasgos del personaje
 
