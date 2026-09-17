@@ -4,7 +4,7 @@ layout: default
 
 # Rasgos de clase
 
-[Volver](../../)
+[Volver](../)
 
 ## Sumario
 

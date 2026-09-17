@@ -4,7 +4,7 @@ layout: default
 
 # Dotes
 
-[Volver](../../)
+[Volver](../)
 
 ## Sumario
 

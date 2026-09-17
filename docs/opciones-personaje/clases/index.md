@@ -4,7 +4,7 @@ layout: default
 
 # Clases
 
-[Volver](../../)
+[Volver](../)
 
 ## Sumario
 

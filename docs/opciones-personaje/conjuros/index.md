@@ -4,7 +4,7 @@ layout: default
 
 # Conjuros
 
-[Volver](../../)
+[Volver](../)
 
 ## Sumario
 

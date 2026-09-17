@@ -4,7 +4,7 @@ layout: default
 
 # Arquetipos
 
-[Volver](../../)
+[Volver](../)
 
 ## Sumario
 

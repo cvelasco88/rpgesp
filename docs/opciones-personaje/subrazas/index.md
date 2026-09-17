@@ -4,7 +4,7 @@ layout: default
 
 # Subrazas
 
-[Volver](../../)
+[Volver](../)
 
 ## Sumario
 
