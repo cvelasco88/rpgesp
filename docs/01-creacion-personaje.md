@@ -20,6 +20,7 @@ layout: default
 - [Distribución corporal](#distribucion-corporal)
 - [Estadísticas iniciales](#estadisticas-iniciales)
 - [Tablas de identidad](#tablas-de-identidad)
+- [Compendio de opciones](./opciones-personaje/)
 - [Atributos y especializaciones](./01-creacion-personaje-atributos.md)
 - [Equipo inicial](./01-creacion-personaje-equipo-inicial.md)
 - [Perfiles y clases predefinidas](./01-creacion-personaje-perfiles.md)
@@ -33,7 +34,7 @@ La clave no es llenar una ficha con números, sino que cada decisión ayude a co
 ## Proceso de creación
 
 1. Define el concepto y la intención del personaje.
-2. Elige o genera [nombre, trasfondo y rasgos](#nombre-y-trasfondo).
+2. Elige o genera [nombre y rasgos](#nombre-y-trasfondo), y consulta un [trasfondo del compendio](./opciones-personaje/trasfondos/).
 3. Determina la [edad](#edad) y escribe un detalle del pasado.
 4. Asigna los [atributos y competencias](#atributos-y-competencias), junto con los puntos de desarrollo iniciales.
 5. Elige las [competencias de armas y armaduras](#competencias-de-armas-y-armaduras), los entrenamientos y las dotes iniciales.
@@ -65,7 +66,7 @@ No es necesario usar lo que salga al azar si no encaja con la idea del personaje
 
 Consulta [Nombre y trasfondo](#nombre-y-trasfondo) y [Rasgos del personaje](#rasgos-del-personaje) para generar o ajustar la identidad del personaje.
 
-El trasfondo no concede una bonificación automática. Define conocimientos, contactos y objetos plausibles; conviértelo en una competencia solo si forma parte de la historia y la mesa acepta esa especialización.
+El trasfondo no concede una bonificación automática. Define conocimientos, contactos y objetos plausibles; consulta los [trasfondos](./opciones-personaje/trasfondos/) para elegir una propuesta concreta sin repetir aquí su catálogo.
 
 ### 3. Edad y pasado
 
@@ -89,7 +90,7 @@ Un personaje inicial debería recibir varias competencias de armas para definir 
 
 ### Entrenamientos y dotes
 
-Los entrenamientos permiten estilos como Combate a dos manos, Combate con dos armas, Combate con escudo, Combate montado o Armas arrojadizas. Las dotes desbloquean acciones, reacciones o capacidades especiales. Ninguno tiene un valor numérico.
+Los entrenamientos permiten estilos como Combate a dos manos, Combate con dos armas, Combate con escudo, Combate montado o Armas arrojadizas. Las dotes desbloquean acciones, reacciones o capacidades especiales. Consulta el catálogo de [dotes](./opciones-personaje/dotes/) para opciones concretas. Ninguno tiene un valor numérico.
 
 No confundas una competencia con una dote: la competencia dice “sé utilizar esta arma”; la dote dice “puedo hacer algo especial con ella”.
 
@@ -201,6 +202,8 @@ Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar
 
 ### Nombre y trasfondo
 
+Estas tablas sirven para generar nombres y detalles rápidos. Los trasfondos desarrollados viven en el [compendio de trasfondos](./opciones-personaje/trasfondos/), que es la referencia principal y evita duplicar sus efectos aquí.
+
 #### Nombres femeninos (d20)
 
 | d20 | Nombre | d20 | Nombre |
@@ -246,7 +249,7 @@ Las tablas siguientes son generadores propios del Sistema Corporal. Puedes tirar
 | 9 | Hojamala | 19 | Velaparda |
 | 10 | Lanzaquieta | 20 | Zarzablanca |
 
-#### Trasfondo (d20)
+#### Ideas de trasfondo (d20)
 
 | d20 | Trasfondo | d20 | Trasfondo |
 | ---: | --- | ---: | --- |

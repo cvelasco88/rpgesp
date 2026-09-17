@@ -9,6 +9,8 @@ layout: default
 ## Sumario
 
 - [Principio general](#principio-general)
+- [Catálogo de conjuros](./opciones-personaje/conjuros/)
+- [Listas de conjuros](./opciones-personaje/listas-conjuros/)
 - [Objetos mágicos](#objetos-magicos)
 - [Lanzar hechizos](#lanzar-hechizos)
 - [Diseñar un poder](#disenar-un-poder)
@@ -21,6 +23,8 @@ layout: default
 ---
 
 ## Principio general
+
+El [catálogo de conjuros](./opciones-personaje/conjuros/) contiene poderes concretos y las [listas de conjuros](./opciones-personaje/listas-conjuros/) organizan su acceso recomendado. Esta página conserva las reglas comunes para lanzar, diseñar y limitar poderes.
 
 La magia y los poderes sobrenaturales representan una influencia especial del mundo sobre la realidad. No se tratan como un simple bonus de daño, sino como una herramienta con coste y riesgo.
 

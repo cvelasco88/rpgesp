@@ -16,6 +16,7 @@ La intención del sistema es ofrecer una estructura clara, rápida y brutalmente
 - [Principios del guardián](./docs/00-principios-guardian.md)
 - [Principios de los jugadores](./docs/00-principios-jugadores.md)
 - [Creación del personaje](./docs/01-creacion-personaje.md)
+- [Opciones de personaje](./docs/opciones-personaje/)
 - [Equipo](./docs/05-equipo.md)
 - [Reglas](./docs/03-reglas.md)
 - [Magia](./docs/07-magia-y-poderes.md)
@@ -39,8 +40,9 @@ Para ver la formulación completa de estas ideas, consulta:
 
 1. Lee los [principios del sistema](./docs/00-principios.md).
 2. Crea el personaje con la [creación de personaje](./docs/01-creacion-personaje.md).
-3. Consulta [reglas](./docs/03-reglas.md) durante la partida.
-4. Usa el [resumen de reglas](./docs/99-resumen-de-reglas.md) como referencia rápida.
+3. Elige opciones del [compendio de personaje](./docs/opciones-personaje/), si quieres una guía de clase, raza, trasfondo o poderes.
+4. Consulta [reglas](./docs/03-reglas.md) durante la partida.
+5. Usa el [resumen de reglas](./docs/99-resumen-de-reglas.md) como referencia rápida.
 
 Esta portada funciona como mapa general del documento de referencia. Las reglas completas, las tablas y los ejemplos se encuentran en el resto de páginas para que puedan consultarse y editarse por separado sin duplicar contenido.
 
