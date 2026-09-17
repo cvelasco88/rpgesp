@@ -10,9 +10,14 @@ layout: default
 
 - [Uso](#uso)
 - [Razas disponibles](#razas-disponibles)
-- [Humano](./humano.md)
-- [Enano](./enano.md)
-- [Elfo](./elfo.md)
+- [Humanos](./humanos.md)
+- [Umbríos](./umbrios.md)
+- [Tauri](./tauri.md)
+- [Tortugalos](./tortugalos.md)
+- [Arbolae](./arbolarios.md)
+- [Arácnidos](./aracnidos.md)
+- [Felinos](./felinos.md)
+- [Marinos](./marinos.md)
 
 ## Uso
 
@@ -20,12 +25,15 @@ La raza representa herencia, comunidad, cuerpo, memoria y la forma en que el mun
 
 ## Razas disponibles
 
-| Raza | Rasgo común |
+| Raza | Identidad principal |
 | --- | --- |
-| [Humano](./humano.md) | Adaptación y redes diversas |
-| [Enano](./enano.md) | Resistencia y oficio paciente |
-| [Elfo](./elfo.md) | Percepción y memoria prolongada |
-| Mediano | Agilidad, discreción y comunidad |
-| Dracónido | Linaje poderoso y presencia singular |
+| [Humanos](./humanos.md) | Adaptación y diversidad |
+| [Umbríos](./umbrios.md) | Sombra materializada |
+| [Tauri](./tauri.md) | Fuerza y responsabilidad |
+| [Tortugalos](./tortugalos.md) | Memoria y permanencia |
+| [Arbolae](./arbolarios.md) | Identidad e imitación |
+| [Arácnidos](./aracnidos.md) | Percepción, redes y estrategia |
+| [Felinos](./felinos.md) | Civilización e instinto |
+| [Marinos](./marinos.md) | Conexión entre tierra y océano |
 
 [regresar al contenido](#sumario)

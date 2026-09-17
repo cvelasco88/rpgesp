@@ -35,8 +35,8 @@ Los números y procedimientos comunes permanecen en [Creación del personaje](..
 | Clases | Plantillas de identidad y progresión | En desarrollo |
 | Subclases | Especializaciones asociadas a una clase | En desarrollo |
 | Arquetipos | Especializaciones dentro de una clase o concepto | En desarrollo |
-| Razas | Herencias y culturas jugables | En desarrollo |
-| Subrazas | Variantes de una raza | En desarrollo |
+| Razas | Ocho herencias y culturas jugables | En desarrollo |
+| Subrazas | Dieciséis variantes de las ocho razas | En desarrollo |
 | Trasfondos | Pasado, contactos y recursos narrativos | En desarrollo |
 | Dotes | Capacidades que cambian acciones o reglas | En desarrollo |
 | Conjuros | Catálogo de poderes con límites claros | En desarrollo |

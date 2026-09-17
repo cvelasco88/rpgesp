@@ -35,8 +35,8 @@ Este compendio incluye las reglas esenciales y un catálogo creciente de opcione
 - [5 clases](./docs/opciones-personaje/clases/) como Guerrero y Explorador.
 - [4 subclases](./docs/opciones-personaje/subclases/) como especializaciones ligadas a una clase.
 - [4 arquetipos](./docs/opciones-personaje/arquetipos/) como Vanguardia y Acechador.
-- [5 razas](./docs/opciones-personaje/razas/) como Humano, Enano y Elfo.
-- [4 subrazas](./docs/opciones-personaje/subrazas/) como Alto elfo y Gnomo de las rocas.
+- [8 razas](./docs/opciones-personaje/razas/) como Humanos, Umbríos, Tauri, Tortugalos, Arbolae, Arácnidos, Felinos y Marinos.
+- [16 subrazas](./docs/opciones-personaje/subrazas/) como Umbra, Monteses, Rojos, Ancestrales, Acechadores, Salvajes y Abisales.
 - [5 trasfondos](./docs/opciones-personaje/trasfondos/) como Acólito, Explorador de frontera y Personalizado.
 - [4 dotes](./docs/opciones-personaje/dotes/) como Apresador y Pies ligeros.
 - [5 conjuros](./docs/opciones-personaje/conjuros/) como Llamarada sagrada y Detectar magia.
