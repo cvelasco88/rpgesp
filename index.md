@@ -26,7 +26,24 @@ La intención del sistema es ofrecer una estructura clara, rápida y brutalmente
 
 ## Sumario
 
-**Sistema Corporal** se apoya en una filosofía de juego clara: el guardián arbitra con justicia, la ficción tiene prioridad sobre la tirada, la progresión es por experiencia y el peligro real acompaña cada decisión.
+**Sistema Corporal** es un compendio de reglas y opciones para crear personajes, explorar lugares peligrosos y resolver conflictos con consecuencias. La ficción tiene prioridad sobre la tirada, la progresión nace de la experiencia y el guardián arbitra con justicia.
+
+### Opciones disponibles
+
+Este compendio incluye las reglas esenciales y un catálogo creciente de opciones propias del Sistema Corporal. Las cifras indican el contenido disponible actualmente y crecerán con el desarrollo del juego:
+
+- [5 clases](./docs/opciones-personaje/clases/) como Guerrero y Explorador.
+- [4 subclases](./docs/opciones-personaje/subclases/) como especializaciones ligadas a una clase.
+- [4 arquetipos](./docs/opciones-personaje/arquetipos/) como Vanguardia y Acechador.
+- [5 razas](./docs/opciones-personaje/razas/) como Humano, Enano y Elfo.
+- [4 subrazas](./docs/opciones-personaje/subrazas/) como Alto elfo y Gnomo de las rocas.
+- [5 trasfondos](./docs/opciones-personaje/trasfondos/) como Acólito, Explorador de frontera y Personalizado.
+- [4 dotes](./docs/opciones-personaje/dotes/) como Apresador y Pies ligeros.
+- [5 conjuros](./docs/opciones-personaje/conjuros/) como Llamarada sagrada y Detectar magia.
+- [4 listas de conjuros](./docs/opciones-personaje/listas-conjuros/) organizadas por enfoque mágico.
+- [3 rasgos de clase](./docs/opciones-personaje/rasgos-clase/) como Protección, Acción astuta y Fuente de magia.
+- [3 amenazas desarrolladas](./docs/06-bestiario.md) para poblar el mundo y poner a prueba al grupo.
+- [Más de 50 objetos y categorías de equipo](./docs/05-equipo.md), además de [equipo inicial](./docs/01-creacion-personaje-equipo-inicial.md) para preparar cada expedición.
 
 Para ver la formulación completa de estas ideas, consulta:
 
