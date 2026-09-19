@@ -23,11 +23,11 @@ Tienen cuerpo y rostro humanos, pieles de tonalidades relacionadas con el océan
 
 Pueden presentar pequeñas escamas, membranas o patrones naturales. Su pelo recuerda a rastas largas y se mezcla con coral, algas, conchas, fragmentos minerales y pequeñas estructuras parecidas a arrecifes. Con los años, el coral puede crecer junto al cabello y formar un arrecife viviente.
 
-Sus subrazas son [Abisales](../subrazas/abisales.md), [Oceánicos](../subrazas/oceanicos.md) y [Costeros](../subrazas/costeros.md), según el entorno al que están adaptados.
+Sus subrazas son [Abisales](../subrazas/abisales.md), [Oceánicos](../subrazas/oceanicos.md) y [Continentales](../subrazas/continentales.md), según el entorno al que están adaptados.
 
 ## Cultura
 
-Su cultura gira alrededor de la comunidad, los ciclos, la conservación, la navegación y el respeto por los arrecifes. Un arrecife puede ser hogar ancestral, lugar sagrado o extensión de una comunidad.
+Su cultura gira alrededor de la comunidad, los ciclos, la conservación, la navegación y el respeto por los arrecifes. Un arrecife puede ser hogar ancestral, lugar sagrado o extensión de una comunidad. Las diferencias entre sus subrazas expresan rutas de vida y vínculos con el agua, no una jerarquía entre pueblos marinos.
 
 Su estética combina druidas y océano: usan bastones de madera arrastrada por el mar, collares de conchas, coral, algas, huesos marinos y fibras naturales. No tienen que ser druidas en términos de clase.
 

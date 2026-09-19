@@ -21,10 +21,10 @@ Una lista de conjuros es una recomendación de acceso, no una frontera absoluta.
 
 | Lista | Acceso habitual | Enfoque |
 | --- | --- | --- |
-| [Mística](#lista-mistica) | Mediador, acólito, protector | Vínculo, protección y sanación |
-| [Arcana](#lista-arcana) | Canalizador, investigador | Estudio, percepción y alteración |
+| [Mística](#lista-mistica) | Profeta, Bendito, acólito | Vínculo, protección y sanación |
+| [Arcana](#lista-arcana) | Hechicero, investigador | Estudio, percepción y alteración |
 | Exploración | Explorador, acechador | Terreno, sentidos y movimiento |
-| Social | Mediador, líder | Emoción, presencia y comunicación |
+| Social | Profeta, líder | Emoción, presencia y comunicación |
 
 ## Lista mística
 

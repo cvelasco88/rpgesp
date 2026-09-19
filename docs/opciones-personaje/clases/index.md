@@ -10,8 +10,13 @@ layout: default
 
 - [Qué es una clase](#que-es-una-clase)
 - [Clases disponibles](#clases-disponibles)
+- [Hechicero](./hechicero.md)
+- [Guardián](./guardian.md)
 - [Guerrero](./guerrero.md)
+- [Bendito](./bendito.md)
 - [Explorador](./explorador.md)
+- [Médico](./medico.md)
+- [Profeta](./profeta.md)
 
 ## Qué es una clase
 
@@ -23,12 +28,14 @@ Al elegir una clase, selecciona también una motivación, una competencia distin
 
 | Clase | Fantasía | Atributos habituales |
 | --- | --- | --- |
-| [Guerrero](./guerrero.md) | Resiste y domina el combate físico | Cuerpo, Espíritu |
-| [Explorador](./explorador.md) | Encuentra rutas, presas y respuestas en el terreno | Cuerpo, Mente |
-| Investigador | Resuelve misterios con método y memoria | Mente, Presencia |
-| Canalizador | Da forma a poderes y pactos peligrosos | Espíritu, Mente |
-| Mediador | Protege al grupo mediante vínculos y liderazgo | Presencia, Espíritu |
+| [Hechicero](./hechicero.md) | Manipula una fuente sobrenatural de poder | Espíritu, Mente |
+| [Guardián](./guardian.md) | Protege al grupo y mantiene la primera línea | Cuerpo, Espíritu |
+| [Guerrero](./guerrero.md) | Entrena y domina el combate físico | Cuerpo, Espíritu |
+| [Bendito](./bendito.md) | Recibe poder de una Bestia Sagrada | Espíritu, Cuerpo |
+| [Explorador](./explorador.md) | Sobrevive, rastrea y se desplaza por el mundo | Cuerpo, Mente |
+| [Médico](./medico.md) | Mantiene con vida mediante saberes distintos | Mente, Espíritu |
+| [Profeta](./profeta.md) | Interpreta o canaliza fuerzas superiores | Espíritu, Presencia |
 
-Estas cinco entradas son un punto de partida, no una lista cerrada.
+Cada clase tiene especializaciones que concretan su forma de actuar sin convertirse en una clase separada. Las siete clases son una guía de identidad, no una lista cerrada.
 
 [regresar al contenido](#sumario)

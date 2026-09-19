@@ -8,10 +8,10 @@ layout: default
 
 ## Identidad
 
-Los Marinos Abisales están adaptados a las profundidades, la oscuridad submarina y las presiones del océano profundo. Su coral puede ser oscuro o bioluminiscente y mantienen relaciones con criaturas abisales.
+Los Marinos Abisales viven en fosas, cavernas sumergidas y regiones donde la luz apenas llega. Sus cuerpos soportan la presión y su coral suele ser oscuro o bioluminiscente. Mantienen relaciones con criaturas de las profundidades y conservan mapas de corrientes que nunca alcanzan la superficie.
 
 ## Rasgo cultural
 
-Elige una fosa, criatura o tradición de las profundidades que forme parte de tu memoria.
+Elige una fosa, criatura o tradición de las profundidades que forme parte de tu memoria. Tu comunidad puede interpretar el silencio del abismo como refugio, frontera o lugar sagrado.
 
 [regresar al contenido](#sumario)

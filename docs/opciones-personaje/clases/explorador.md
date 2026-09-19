@@ -9,6 +9,7 @@ layout: default
 ## Sumario
 
 - [Concepto](#concepto)
+- [Especializaciones](#especializaciones)
 - [Rasgos sugeridos](#rasgos-sugeridos)
 - [Arquetipos](#arquetipos)
 
@@ -17,6 +18,12 @@ layout: default
 El explorador lee el terreno, anticipa peligros y encuentra caminos donde otras personas solo ven distancia. Puede ser guía, cazador, cartógrafa, mensajero o fugitivo.
 
 **Atributos habituales:** Cuerpo y Mente. **Competencias habituales:** Supervivencia, Naturaleza, Percepción y Sigilo.
+
+## Especializaciones
+
+- **Cazador:** rastreo, presas, criaturas y combate a distancia.
+- **Expedicionario:** territorios desconocidos, especialmente mares, costas y regiones peligrosas.
+- **Botánico:** plantas, recursos naturales, venenos y supervivencia.
 
 ## Rasgos sugeridos
 

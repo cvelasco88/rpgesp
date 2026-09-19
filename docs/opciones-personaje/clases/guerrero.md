@@ -9,6 +9,7 @@ layout: default
 ## Sumario
 
 - [Concepto](#concepto)
+- [Especializaciones](#especializaciones)
 - [Rasgos sugeridos](#rasgos-sugeridos)
 - [Arquetipos](../arquetipos/)
 
@@ -17,6 +18,11 @@ layout: default
 El guerrero convierte la presión en decisión. Puede ser soldado, duelista, guardaespaldas, revolucionario o superviviente; su clase describe una práctica, no una profesión obligatoria.
 
 **Atributos habituales:** Cuerpo y Espíritu. **Competencias habituales:** Combate, Atletismo, Intimidación o Liderazgo.
+
+## Especializaciones
+
+- **Guerrero:** entrenamiento y dominio general del combate.
+- **Forjador:** combate con armas y equipamiento que fabrica personalmente.
 
 ## Rasgos sugeridos
 

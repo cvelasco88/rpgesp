@@ -26,8 +26,7 @@ Una subraza concreta una región, linaje, adaptación o tradición dentro de una
 | [Tortugalos](../razas/tortugalos.md) | [Rojos](./rojos.md), [Azules](./azules.md) y [Dorados](./dorados.md) |
 | [Arbolae](../razas/arbolarios.md) | [Ancestrales](./ancestrales.md) y [Fungi](./fungicos.md) |
 | [Arácnidos](../razas/aracnidos.md) | [Acechadores](./acechadores.md) y [Oráculos](./oraculos.md) |
-| [Felinos](../razas/felinos.md) | [Salvajes](./salvajes.md) |
-| [Marinos](../razas/marinos.md) | [Abisales](./abisales.md), [Oceánicos](./oceanicos.md) y [Costeros](./costeros.md) |
+| [Marinos](../razas/marinos.md) | [Abisales](./abisales.md), [Oceánicos](./oceanicos.md) y [Continentales](./continentales.md) |
 
 ## Cómo usar una subraza
 

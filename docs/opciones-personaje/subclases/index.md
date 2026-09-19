@@ -23,8 +23,8 @@ Los arquetipos son más amplios y pueden cruzar clases; las subclases son sus ex
 | --- | --- | --- |
 | Guerrero | Vanguardia | [Vanguardia](../arquetipos/vanguardia.md) |
 | Explorador | Acechador | [Acechador](../arquetipos/acechador.md) |
-| Canalizador | Voz del umbral | Canalizador |
-| Mediador | Custodio del vínculo | Mediador |
+| Hechicero | Voz del umbral | Hechicero |
+| Profeta | Custodio del vínculo | Profeta |
 
 Una subclase puede cambiarse o abandonarse si la historia del personaje toma otra dirección. Los rasgos concretos deben registrarse en [Rasgos de clase](../rasgos-clase/).
 

@@ -23,7 +23,7 @@ Un arquetipo expresa la especialización que aparece cuando una clase, raza, tra
 | --- | --- |
 | [Vanguardia](./vanguardia.md) | Presión, defensa y combate cercano |
 | [Acechador](./acechador.md) | Sigilo, distancia y lectura del terreno |
-| Canalizador | Poderes, rituales y costes sobrenaturales |
-| Mediador | Vínculos, liderazgo y negociación |
+| Hechicero | Poderes, rituales y costes sobrenaturales |
+| Profeta | Vínculos, liderazgo y negociación |
 
 [regresar al contenido](#sumario)

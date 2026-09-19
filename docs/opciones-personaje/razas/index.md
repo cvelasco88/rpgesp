@@ -16,7 +16,7 @@ layout: default
 - [Tortugalos](./tortugalos.md)
 - [Arbolae](./arbolarios.md)
 - [Arácnidos](./aracnidos.md)
-- [Felinos](./felinos.md)
+- [Planares](./planares.md)
 - [Marinos](./marinos.md)
 
 ## Uso
@@ -33,7 +33,7 @@ La raza representa herencia, comunidad, cuerpo, memoria y la forma en que el mun
 | [Tortugalos](./tortugalos.md) | Memoria y permanencia |
 | [Arbolae](./arbolarios.md) | Identidad e imitación |
 | [Arácnidos](./aracnidos.md) | Percepción, redes y estrategia |
-| [Felinos](./felinos.md) | Civilización e instinto |
+| [Planares](./planares.md) | Energía de otros planos |
 | [Marinos](./marinos.md) | Conexión entre tierra y océano |
 
 [regresar al contenido](#sumario)
