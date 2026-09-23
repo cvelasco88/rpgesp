@@ -160,36 +160,32 @@ Una dote debe cambiar una regla, desbloquear una acción, proporcionar una reacc
 Cada dote debe indicar:
 
 - tipo: combate, defensa, exploración, social, mágica, espiritual, corporal o especial
-- requisitos: atributos, competencias, armas, entrenamientos, zonas corporales o dotes previas
+- requisitos: atributo de acceso y, cuando corresponda, competencias, armas, entrenamientos o dotes previas
 - efecto
 - acción: acción, reacción, pasiva o acción adicional
-- escalado, si utiliza zonas corporales
+- escalado, si modifica una capacidad concreta
 
-### Ejemplos
+### Acceso a las Dotes
 
-**Pies ligeros.** Requiere Pie derecho 2 y Pie izquierdo 2. Obtienes la reacción Esquiva.
+Las Dotes se adquieren mediante la inversión en el atributo correspondiente. El valor del atributo abre el acceso a Dotes de ese atributo; por ejemplo, una Dote de Cuerpo 3 requiere Cuerpo 3. Cada Dote cuesta 1 punto de desarrollo por defecto; una ficha puede indicar un coste distinto. El coste se paga además de haber alcanzado el atributo requerido.
 
-**Defensa férrea.** Requiere Torso 2, Brazo derecho 2 y Brazo izquierdo 2. Obtienes +2 a Defensa.
+Como referencia, Cuerpo 2, Mente 2, Espíritu 2 y Presencia 2 permiten acceder a Dotes básicas de su atributo; el valor 3 permite Dotes avanzadas y los valores 4 y 5 permiten Dotes superiores. Cada Dote debe indicar el umbral exacto que exige.
 
-**Combate a dos manos.** Requiere la competencia del arma y los requisitos corporales definidos por la técnica. Desbloquea técnicas especiales a dos manos.
+Una Dote puede exigir además una competencia, un arma, un entrenamiento, otra Dote o una circunstancia especial cuando el concepto lo necesite. Combate 3, por ejemplo, tiene sentido en Dotes de experiencia marcial como Maestro del arco, pero no es un requisito automático para todas las Dotes de combate.
 
-**Combate con dos armas.** Requiere las competencias de las armas utilizadas. Permite técnicas especiales con dos armas compatibles.
+Las Dotes deben crear una posibilidad de juego: cambiar una regla, desbloquear una acción, proporcionar una reacción o modificar una capacidad concreta. No deben limitarse a conceder una bonificación numérica genérica.
 
-**Maestro del arco.** Requiere competencia con arco y Combate 3. Desbloquea técnicas avanzadas de arco.
-
-**Maestro de la ballesta.** Requiere competencia con una ballesta y Combate 3. Desbloquea técnicas avanzadas de ballesta.
-
-**Especialista en espada.** Requiere competencia con espada. Desbloquea técnicas especiales de espada.
+Las habilidades, ataques, hechizos y técnicas sí pueden exigir zonas corporales. Por ejemplo, Tajo devastador puede requerir Brazo derecho 3, Brazo izquierdo 3, competencia con Mandoble y Combate a dos manos, aunque una Dote de Cuerpo no tenga ningún requisito corporal.
 
 ## Requisitos corporales
 
-Los puntos corporales sirven para desbloquear dotes y potenciar habilidades, pero no se suman directamente a las tiradas normales.
+Los puntos corporales representan el desarrollo físico necesario para ejecutar determinadas habilidades, ataques, hechizos y técnicas. No son un requisito general para adquirir Dotes y no se suman directamente a las tiradas normales.
 
-Si una dote requiere Torso 2, Brazo derecho 2 y Brazo izquierdo 2, el personaje cumple o no cumple el requisito; no suma esos valores para crear un bono.
+Una Dote puede mencionar una zona corporal solo en casos excepcionales y por una razón temática concreta. La puerta de entrada normal de una Dote es su atributo: Cuerpo, Mente, Espíritu o Presencia.
 
-Una dote o habilidad puede utilizar como máximo dos zonas corporales para escalar directamente su efecto. Las demás zonas pueden aparecer como requisitos, pero no participan en el cálculo.
+Una habilidad o técnica puede utilizar como máximo dos zonas corporales para escalar directamente su efecto. Las demás zonas pueden aparecer como requisitos, pero no participan en el cálculo.
 
-Ejemplo: **Tajo devastador** requiere competencia con Mandoble, Combate a dos manos, Brazo derecho 3, Brazo izquierdo 3 y Puño derecho 2. El ataque sigue usando la tirada normal; los puntos corporales solo desbloquean la técnica.
+Ejemplo: **Tajo devastador** requiere competencia con Mandoble, Combate a dos manos, Brazo derecho 3 y Brazo izquierdo 3. El ataque sigue usando la tirada normal; los puntos corporales permiten ejecutar la técnica, pero no otorgan una Dote ni un bono automático.
 
 Para la distribución y el escalado de las zonas, consulta [Sistema corporal](./03-reglas-sistema-corporal.md).
 

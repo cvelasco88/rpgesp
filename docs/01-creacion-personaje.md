@@ -90,7 +90,7 @@ Un personaje inicial debería recibir varias competencias de armas para definir 
 
 ### Entrenamientos y dotes
 
-Los entrenamientos permiten estilos como Combate a dos manos, Combate con dos armas, Combate con escudo, Combate montado o Armas arrojadizas. Las dotes desbloquean acciones, reacciones o capacidades especiales. Consulta el catálogo de [dotes](./opciones-personaje/dotes/) para opciones concretas. Ninguno tiene un valor numérico.
+Los entrenamientos permiten estilos como Combate a dos manos, Combate con dos armas, Combate con escudo, Combate montado o Armas arrojadizas. Las dotes desbloquean acciones, reacciones o capacidades especiales. Para elegir una Dote inicial hay que cumplir su atributo de acceso y gastar 1 punto de desarrollo, salvo que su ficha indique otro coste. Consulta el catálogo de [dotes](./opciones-personaje/dotes/) para opciones concretas. Ninguno tiene un valor numérico.
 
 No confundas una competencia con una dote: la competencia dice “sé utilizar esta arma”; la dote dice “puedo hacer algo especial con ella”.
 

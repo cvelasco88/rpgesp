@@ -13,7 +13,7 @@ layout: default
 
 ## Requisitos
 
-Competencia con un arma capaz de enganchar, atrapar o derribar y una ficción que justifique el intento.
+Cuerpo 2, competencia con un arma capaz de enganchar, atrapar o derribar y una ficción que justifique el intento.
 
 ## Efecto
 

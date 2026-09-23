@@ -13,7 +13,7 @@ layout: default
 
 ## Requisitos
 
-Pie derecho 2 y Pie izquierdo 2.
+Cuerpo 2.
 
 ## Efecto
 

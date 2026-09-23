@@ -38,7 +38,7 @@ Este compendio incluye las reglas esenciales y un catálogo creciente de opcione
 - [8 razas](./docs/opciones-personaje/razas/) como Humanos, Umbríos, Tauri, Tortugalos, Arbolae, Arácnidos, Planares y Marinos.
 - [15 subrazas](./docs/opciones-personaje/subrazas/) como Umbra, Monteses, Rojos, Ancestrales, Acechadores, Abisales y Continentales.
 - [8 trasfondos](./docs/opciones-personaje/trasfondos/) en total: 7 principales como Soldado, Sacerdote, Guía, Prófugo, Artesano, Minero y Noble, además de Personalizado.
-- [4 dotes](./docs/opciones-personaje/dotes/) como Apresador y Pies ligeros.
+- [12 Dotes](./docs/opciones-personaje/dotes/) organizadas por Cuerpo, Mente, Espíritu y Presencia.
 - [5 conjuros](./docs/opciones-personaje/conjuros/) como Llamarada sagrada y Detectar magia.
 - [4 listas de conjuros](./docs/opciones-personaje/listas-conjuros/) organizadas por enfoque mágico.
 - [3 rasgos de clase](./docs/opciones-personaje/rasgos-clase/) como Protección, Acción astuta y Fuente de magia.
