@@ -42,6 +42,7 @@ El resultado se compara con la dificultad o con la Defensa del objetivo.
 - Los entrenamientos describen estilos de uso del equipo.
 - Las dotes y rasgos cambian reglas, desbloquean acciones o proporcionan reacciones.
 - Los puntos corporales desbloquean y potencian habilidades, ataques, hechizos y técnicas; no son un requisito general para adquirir Dotes.
+- Un 20 natural en un ataque es un crítico; las Dotes pueden reducir ese umbral.
 
 ## Defensa y salvaciones
 

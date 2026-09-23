@@ -17,6 +17,6 @@ Espíritu 3.
 
 ## Efecto
 
-**Reacción:** cuando sufres miedo, compulsión, control mental o una influencia espiritual, puedes repetir la tirada para resistirla.
+**Reacción:** cuando un efecto intenta controlarte, atemorizarte o doblegarte, puedes rechazarlo parcialmente y convertirlo en una consecuencia menor apropiada.
 
 [regresar al contenido](#sumario)

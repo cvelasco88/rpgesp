@@ -17,6 +17,6 @@ Presencia 3 y Liderazgo 2.
 
 ## Efecto
 
-**Reacción:** cuando un aliado cercano falla una acción, puedes permitirle repetirla si puede escucharte y seguir tus instrucciones.
+**Reacción:** cuando un aliado falla una acción que pueda verse afectada por tus palabras, puedes intervenir. El aliado puede convertir el fracaso en un éxito con una consecuencia.
 
 [regresar al contenido](#sumario)

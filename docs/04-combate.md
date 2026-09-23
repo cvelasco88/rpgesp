@@ -68,6 +68,8 @@ Un ataque usa el atributo que corresponda a la forma de atacar:
 
 El personaje debe tener competencia con el arma utilizada. El resultado se compara con la Defensa del objetivo. Si es igual o superior, el ataque impacta y se tira el daño del arma, poder o maniobra.
 
+Un resultado de 20 natural en la tirada de ataque es un crítico. El crítico aumenta el efecto del impacto según el arma, poder o maniobra; si no se indica otra cosa, tira dos veces los dados de daño y conserva el mejor resultado. Una Dote puede modificar este umbral, pero no convierte automáticamente un fallo en un impacto.
+
 - Cuerpo suele aplicarse a golpes, armas pesadas y ataques que dependen de la fuerza.
 - Cuerpo o Mente pueden aplicarse a armas a distancia, según la técnica y la ficción.
 - Espíritu o Presencia pueden aplicarse a poderes que afecten directamente la voluntad o la esencia de un objetivo.

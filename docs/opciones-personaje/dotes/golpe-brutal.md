@@ -17,6 +17,6 @@ Cuerpo 3.
 
 ## Efecto
 
-Cuando realizas un ataque cuerpo a cuerpo, tira dos veces los dados de daño y conserva el mejor resultado.
+**Pasiva:** cuando realizas un ataque cuerpo a cuerpo, puedes tirar dos veces los dados de daño y conservar el mejor resultado.
 
 [regresar al contenido](#sumario)

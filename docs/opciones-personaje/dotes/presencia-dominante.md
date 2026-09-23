@@ -17,6 +17,6 @@ Presencia 3 e Intimidación o Liderazgo 2.
 
 ## Efecto
 
-Cuando impones una orden mediante Intimidación o Liderazgo y tienes éxito, el objetivo debe reaccionar inmediatamente a ella en lugar de limitarse a aceptar la conversación.
+**Nueva acción:** puedes imponer una orden inmediata a alguien que te reconozca como una amenaza o autoridad. No es control mental: el objetivo decide cómo responder y puede asumir consecuencias por desobedecer.
 
 [regresar al contenido](#sumario)
