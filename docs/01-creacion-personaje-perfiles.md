@@ -102,7 +102,7 @@ Estos inventarios son plantillas opcionales para comenzar rápidamente. No son c
 - grilletes
 - soga fina
 
-### Clérigo
+### Devoto
 
 - martillo de guerra (1d10, voluminosa)
 - cota de malla (Armadura 2, voluminosa)

@@ -37,7 +37,7 @@ Los números y procedimientos comunes permanecen en [Creación del personaje](..
 | Arquetipos | Especializaciones dentro de una clase o concepto | En desarrollo |
 | Razas | Ocho herencias y culturas jugables | En desarrollo |
 | Subrazas | Quince variantes de las ocho razas | En desarrollo |
-| Trasfondos | Pasado, contactos y recursos narrativos | En desarrollo |
+| Trasfondos | 7 principales y 1 personalizado | En desarrollo |
 | Dotes | Capacidades que cambian acciones o reglas | En desarrollo |
 | Conjuros | Catálogo de poderes con límites claros | En desarrollo |
 | Listas de conjuros | Acceso recomendado por clase o arquetipo | En desarrollo |

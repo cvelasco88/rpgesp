@@ -21,7 +21,7 @@ Una lista de conjuros es una recomendación de acceso, no una frontera absoluta.
 
 | Lista | Acceso habitual | Enfoque |
 | --- | --- | --- |
-| [Mística](#lista-mistica) | Profeta, Bendito, acólito | Vínculo, protección y sanación |
+| [Mística](#lista-mistica) | Profeta, Bendito, Sacerdote si la ficción lo justifica | Vínculo, protección y sanación |
 | [Arcana](#lista-arcana) | Hechicero, investigador | Estudio, percepción y alteración |
 | Exploración | Explorador, acechador | Terreno, sentidos y movimiento |
 | Social | Profeta, líder | Emoción, presencia y comunicación |

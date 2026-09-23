@@ -37,7 +37,7 @@ Este compendio incluye las reglas esenciales y un catálogo creciente de opcione
 - [4 arquetipos](./docs/opciones-personaje/arquetipos/) como Vanguardia y Acechador.
 - [8 razas](./docs/opciones-personaje/razas/) como Humanos, Umbríos, Tauri, Tortugalos, Arbolae, Arácnidos, Planares y Marinos.
 - [15 subrazas](./docs/opciones-personaje/subrazas/) como Umbra, Monteses, Rojos, Ancestrales, Acechadores, Abisales y Continentales.
-- [5 trasfondos](./docs/opciones-personaje/trasfondos/) como Acólito, Explorador de frontera y Personalizado.
+- [8 trasfondos](./docs/opciones-personaje/trasfondos/) en total: 7 principales como Soldado, Sacerdote, Guía, Prófugo, Artesano, Minero y Noble, además de Personalizado.
 - [4 dotes](./docs/opciones-personaje/dotes/) como Apresador y Pies ligeros.
 - [5 conjuros](./docs/opciones-personaje/conjuros/) como Llamarada sagrada y Detectar magia.
 - [4 listas de conjuros](./docs/opciones-personaje/listas-conjuros/) organizadas por enfoque mágico.

@@ -66,7 +66,7 @@ No es necesario usar lo que salga al azar si no encaja con la idea del personaje
 
 Consulta [Nombre y trasfondo](#nombre-y-trasfondo) y [Rasgos del personaje](#rasgos-del-personaje) para generar o ajustar la identidad del personaje.
 
-El trasfondo concede competencias, equipo y un rasgo narrativo, pero no una bonificación automática. Define conocimientos, contactos y objetos plausibles; consulta los [trasfondos](./opciones-personaje/trasfondos/) para elegir una propuesta concreta sin repetir aquí su catálogo.
+El trasfondo concede dos competencias generales, un contacto y un objeto relacionado con la vida anterior, pero no una bonificación automática. Define conocimientos, relaciones, lugares y problemas plausibles; consulta los [trasfondos](./opciones-personaje/trasfondos/) para elegir una propuesta concreta sin repetir aquí su catálogo.
 
 ### 3. Edad y pasado
 
@@ -251,7 +251,7 @@ Estas tablas sirven para generar nombres y detalles rápidos. Los trasfondos des
 
 #### Trasfondos
 
-Consulta el [catálogo de trasfondos](./opciones-personaje/trasfondos/) para elegir un pasado, al menos una competencia general, al menos una competencia con equipo o arma, equipo inicial, un rasgo y una complicación. El trasfondo aporta recursos de ficción, pero no concede una bonificación automática.
+Consulta el [catálogo de trasfondos](./opciones-personaje/trasfondos/) para elegir un pasado, dos competencias generales, un contacto, un objeto y preguntas de historia. El trasfondo aporta recursos de ficción, pero no concede una bonificación automática.
 
 ### Rasgos del personaje
 
