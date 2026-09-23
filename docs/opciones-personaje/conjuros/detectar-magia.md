@@ -12,7 +12,8 @@ layout: default
 
 ## Ficha
 
-- **Tipo:** arcano.
+- **Tipo:** Hechizo.
+- **Origen:** Energía Planar.
 - **Atributo:** Mente.
 - **Requisito:** libro, foco o competencia Arcano.
 - **Alcance:** lo que puedas observar o examinar.

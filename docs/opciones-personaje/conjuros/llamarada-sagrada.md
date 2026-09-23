@@ -12,7 +12,8 @@ layout: default
 
 ## Ficha
 
-- **Tipo:** místico.
+- **Tipo:** Hechizo.
+- **Origen:** Bendición.
 - **Atributo:** Espíritu.
 - **Requisito:** símbolo, plegaria o foco espiritual.
 - **Alcance:** una criatura u objeto visible a corta distancia.
