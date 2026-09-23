@@ -31,6 +31,7 @@ El valor del atributo es la puerta de entrada: Cuerpo, Mente, Espíritu o Presen
 | [Golpe certero](./golpe-certero.md) | Cuerpo | Cuerpo 2 |
 | [Pies ligeros](./pies-ligeros.md) | Cuerpo | Cuerpo 2 |
 | [Veterano](./veterano.md) | Cuerpo | Cuerpo 3 y Combate 3 |
+| [Experto](./experto.md) | Mente | Mente 3 y una competencia general con valor 3 |
 | [Oportunista](./oportunista.md) | Mente | Mente 3 |
 | [Tirador paciente](./tirador-paciente.md) | Mente | Mente 3 y competencia con arma a distancia |
 | [Canalizador](./canalizador.md) | Espíritu | Espíritu 3 y Arcano, Fe u Ocultismo 3 |
@@ -46,7 +47,7 @@ Representan acción física, precisión ofensiva y experiencia práctica. Su pro
 
 ## Dotes de Mente
 
-Representan comprensión, lectura de oportunidades y preparación consciente. No sustituyen las reglas generales de iniciativa, sorpresa o percepción.
+Representan comprensión, lectura de oportunidades y preparación consciente. No sustituyen las reglas generales de iniciativa, sorpresa o percepción. La dote [Experto](./experto.md) permite especializarse en una competencia concreta para realizar una maniobra o insight excepcional vinculado a ella.
 
 ## Dotes de Espíritu
 
